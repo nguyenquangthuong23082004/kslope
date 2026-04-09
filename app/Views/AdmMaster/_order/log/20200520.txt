@@ -1,0 +1,102 @@
+
+
+2020.05.20 10:36:18(39.115.125.45 /item/cart_order_ajax_ok.php ) : 
+주문건 만큼 재고 감소 :  update tbl_goods_option
+							  set goods_cnt = goods_cnt - 1
+							where idx = '2'
+						 
+
+
+
+2020.05.20 12:43:34(39.115.125.45 /AdmMaster/_order/invo_update.php ) : 
+[관리자]정보변경 :  update tbl_order
+				set  invo_corp	= '1'
+				   , invoice	= '1234567'
+				   , invoice3	= ''
+				   , status		= 'I'
+			  where idx = '2'
+		   
+
+
+
+2020.05.20 12:43:55(39.115.125.45 /AdmMaster/_order/order_chg_list.php ) : 
+주문으로인한 포인트 적립 : 
+						insert into tbl_point SET
+							 user_id		= 'admin'
+							,o_idx			= '15899384957'
+							,msg			= '수취확인으로 인한 포인트 적립'
+							,point			= '0'
+							,regdate		= now()
+						
+
+
+
+2020.05.20 12:44:37(39.115.125.45 /mypage/chg_save.php ) : 
+주문으로인한 포인트 적립 : 
+			insert into tbl_point SET
+				 user_id		= 'admin'
+				,o_idx			= '15899384957'
+				,msg			= '수취확인으로 인한 포인트 적립'
+				,point			= '0'
+				,regdate		= now()
+			
+
+
+
+2020.05.20 13:04:13(39.115.125.45 /mypage/chg_save.php ) : 
+주문으로인한 포인트 적립 : 
+			insert into tbl_point SET
+				 user_id		= 'admin'
+				,o_idx			= '15899384957'
+				,msg			= '수취확인으로 인한 포인트 적립'
+				,point			= '0'
+				,regdate		= now()
+			
+
+
+
+2020.05.20 14:32:40(39.115.125.45 /mypage/chg_save.php ) : 
+주문으로인한 포인트 적립 : 
+			insert into tbl_point SET
+				 user_id		= 'admin'
+				,o_idx			= '15899384957'
+				,msg			= '수취확인으로 인한 포인트 적립'
+				,point			= '0'
+				,regdate		= now()
+			
+
+
+
+2020.05.20 14:52:55(39.115.125.45 /AdmMaster/_order/invo_update.php ) : 
+[관리자]정보변경 :  update tbl_order
+				set  invo_corp	= ''
+				   , invoice	= '123456'
+				   , invoice3	= ''
+				   , status		= 'I'
+			  where idx = '2'
+		   
+
+
+
+2020.05.20 15:24:33(39.115.125.45 /mypage/chg_save.php ) : 
+주문으로인한 포인트 적립 : 
+			insert into tbl_point SET
+				 user_id		= 'admin'
+				,o_idx			= '15899384957'
+				,msg			= '수취확인으로 인한 포인트 적립'
+				,point			= '0'
+				,regdate		= now()
+			
+
+
+
+2020.05.20 15:27:49(39.115.125.45 /mypage/chg_save.php ) : 
+주문으로인한 포인트 적립 : 
+			insert into tbl_point SET
+				 user_id		= 'admin'
+				,o_idx			= '15899384957'
+				,msg			= '수취확인으로 인한 포인트 적립'
+				,point			= '0'
+				,regdate		= now()
+			
+

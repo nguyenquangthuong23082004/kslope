@@ -1,0 +1,227 @@
+
+
+2018.03.19 9:57:57(218.55.70.22 /test2.php ) : 
+쿠폰생성 :  insert into tbl_coupon set 
+						  coupon_num	= '2C05F001JY'
+						, coupon_type	= ''
+						, types			= 'B'
+						, status		= 'D'
+						, last_idx		= '1'
+						, regdate		= now()
+						, enddate		= '2018-04-19'
+			
+
+
+
+2018.03.19 10:06:50(218.55.70.22 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set 
+					  coupon_num	= '2C05F002OE'
+					, coupon_type	= '5'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '2'
+					, regdate	= now()
+					, enddate	= '2018-04-19'
+		
+
+
+
+2018.03.19 10:06:50(218.55.70.22 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set 
+					  coupon_num	= '2C05F003JA'
+					, coupon_type	= '5'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '3'
+					, regdate	= now()
+					, enddate	= '2018-04-19'
+		
+
+
+
+2018.03.19 10:20:46(218.55.70.22 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set 
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2C05F001JY'
+		
+
+
+
+2018.03.19 10:20:56(218.55.70.22 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set 
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2C05F002OE'
+		
+
+
+
+2018.03.19 10:21:42(218.55.70.22 /test2.php ) : 
+쿠폰생성 :  insert into tbl_coupon set 
+						  coupon_num	= '2C05F004LD'
+						, coupon_type	= ''
+						, types			= 'M'
+						, status		= 'D'
+						, last_idx		= '4'
+						, regdate		= now()
+						, enddate		= '2018-04-19'
+			
+
+
+
+2018.03.19 10:22:58(218.55.70.22 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set 
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2C05F004LD'
+		
+
+
+
+2018.03.19 10:24:52(218.55.70.22 /test2.php ) : 
+쿠폰생성 :  insert into tbl_coupon set 
+						  coupon_num	= '2C05F005HJ'
+						, coupon_type	= ''
+						, types			= 'L'
+						, status		= 'D'
+						, last_idx		= '5'
+						, regdate		= now()
+						, enddate		= '2018-04-19'
+			
+
+
+
+2018.03.19 10:25:33(218.55.70.22 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set 
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2C05F005HJ'
+		
+
+
+
+2018.03.19 10:25:55(218.55.70.22 /test2.php ) : 
+쿠폰생성 :  insert into tbl_coupon set 
+						  coupon_num	= '2C05F006GJ'
+						, coupon_type	= ''
+						, types			= 'F'
+						, status		= 'D'
+						, last_idx		= '6'
+						, regdate		= now()
+						, enddate		= '2018-04-19'
+			
+
+
+
+2018.03.19 10:25:56(218.55.70.22 /test2.php ) : 
+쿠폰생성 :  insert into tbl_coupon set 
+						  coupon_num	= '2C05F007OJ'
+						, coupon_type	= ''
+						, types			= 'F'
+						, status		= 'D'
+						, last_idx		= '7'
+						, regdate		= now()
+						, enddate		= '2018-04-19'
+			
+
+
+
+2018.03.19 10:26:07(218.55.70.22 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set 
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2C05F006GJ'
+		
+
+
+
+2018.03.19 10:26:51(218.55.70.22 /test2.php ) : 
+쿠폰생성 :  insert into tbl_coupon set 
+						  coupon_num	= '2C05F008QM'
+						, coupon_type	= ''
+						, types			= 'W'
+						, status		= 'D'
+						, last_idx		= '8'
+						, regdate		= now()
+						, enddate		= '2018-04-19'
+			
+
+
+
+2018.03.19 10:50:40(218.55.70.22 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set 
+						  coupon_num	= '2C05F009FL'
+						, coupon_type	= ''
+						, types			= 'M'
+						, status		= 'D'
+						, last_idx		= '9'
+						, regdate		= now()
+						, enddate		= '2018-04-19'
+			
+
+
+
+2018.03.19 10:50:40(218.55.70.22 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set 
+						  coupon_num	= '2C05F00AZF'
+						, coupon_type	= ''
+						, types			= 'M'
+						, status		= 'D'
+						, last_idx		= '10'
+						, regdate		= now()
+						, enddate		= '2018-04-19'
+			
+
+
+
+2018.03.19 10:50:59(218.55.70.22 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set 
+					  coupon_num	= '2C05F00BGF'
+					, coupon_type	= '5'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '11'
+					, regdate	= now()
+					, enddate	= '2018-04-19'
+		
+
+
+
+2018.03.19 10:50:59(218.55.70.22 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set 
+					  coupon_num	= '2C05F00CZH'
+					, coupon_type	= '5'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '12'
+					, regdate	= now()
+					, enddate	= '2018-04-19'
+		
+
+
+
+2018.03.19 10:51:14(218.55.70.22 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set 
+						  coupon_num	= '2C05F00DEF'
+						, coupon_type	= ''
+						, types			= 'F'
+						, status		= 'D'
+						, last_idx		= '13'
+						, regdate		= now()
+						, enddate		= '2018-04-19'
+			
+
+
+
+2018.03.19 10:51:14(218.55.70.22 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set 
+						  coupon_num	= '2C05F00EVF'
+						, coupon_type	= ''
+						, types			= 'F'
+						, status		= 'D'
+						, last_idx		= '14'
+						, regdate		= now()
+						, enddate		= '2018-04-19'
+			
+

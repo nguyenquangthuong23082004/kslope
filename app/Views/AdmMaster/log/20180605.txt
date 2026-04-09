@@ -1,0 +1,30 @@
+
+
+2018.06.05 14:12:36(1.215.138.13 /AdmMaster/_order/list.php ) : 
+AdmMaster 접속 시도 - 아이피가 차단되었습니다 : 
+
+
+
+2018.06.05 18:50:22(211.231.103.107 /AdmMaster/_member/email05.php ) : 
+AdmMaster 접속 시도 - 아이피가 차단되었습니다 : 
+
+
+
+2018.06.05 18:55:33(211.231.103.107 /AdmMaster/_goods/review_list.php ) : 
+AdmMaster 접속 시도 - 아이피가 차단되었습니다 : 
+
+
+
+2018.06.05 20:02:38(27.0.238.117 /AdmMaster/_goods/review_list.php ) : 
+AdmMaster 접속 시도 - 아이피가 차단되었습니다 : 
+
+
+
+2018.06.05 20:26:43(61.74.253.150 /AdmMaster/_bbs/board_list.php ) : 
+AdmMaster 접속 시도 - 아이피가 차단되었습니다 : 
+
+
+
+2018.06.05 20:26:51(61.74.253.150 /AdmMaster/_bbs/board_list.php ) : 
+AdmMaster 접속 시도 - 아이피가 차단되었습니다 : 
+

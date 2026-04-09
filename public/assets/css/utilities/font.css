@@ -1,0 +1,169 @@
+/*  */
+@font-face {
+  font-family: "NotoSansCJKkr";
+  font-weight: 300;
+  src: url("../../fonts/NotoSansCJKkr-Light.otf") format("OpenType");
+}
+
+@font-face {
+  font-family: "NotoSansCJKkr";
+  font-weight: 400;
+  src: url("../../fonts/NotoSansCJKkr-Regular.otf") format("OpenType");
+}
+
+@font-face {
+  font-family: "NotoSansCJKkr";
+  font-weight: 500;
+  src: url("../../fonts/NotoSansCJKkr-Medium.otf") format("OpenType");
+}
+
+@font-face {
+  font-family: "NotoSansCJKkr";
+  font-weight: 700;
+  src: url("../../fonts/NotoSansCJKkr-Black.otf") format("OpenType");
+}
+@font-face {
+  font-family: "NotoSansCJKkr";
+  font-weight: 800;
+  src: url("../../fonts/NotoSansCJKkr-Bold.otf") format("OpenType");
+}
+
+@font-face {
+  font-family: "NotoSansCJKkr";
+  font-weight: bold;
+  src: url("../../fonts/NotoSansCJKkr-Bold.otf") format("OpenType");
+}
+
+/*  */
+@font-face {
+  font-family: "ONEMobileTitleRegular";
+  font-weight: 400;
+  src: url("../../fonts/ONEMobileTitleOTF.otf") format("OpenType");
+}
+/*  */
+@font-face {
+  font-family: "SUIT";
+  src: url("../../fonts/SUIT-Thin.otf") format("opentype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SUIT ExtraLight */
+@font-face {
+  font-family: "SUIT";
+  src: url("../../fonts/SUIT-ExtraLight.otf") format("opentype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SUIT Light */
+@font-face {
+  font-family: "SUIT";
+  src: url("../../fonts/SUIT-Light.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SUIT Regular */
+@font-face {
+  font-family: "SUIT";
+  src: url("../../fonts/SUIT-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SUIT Medium */
+@font-face {
+  font-family: "SUIT";
+  src: url("../../fonts/SUIT-Medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SUIT SemiBold */
+@font-face {
+  font-family: "SUIT";
+  src: url("../../fonts/SUIT-SemiBold.otf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SUIT ExtraBold */
+@font-face {
+  font-family: "SUIT";
+  src: url("../../fonts/SUIT-ExtraBold.otf") format("opentype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SUIT Heavy */
+@font-face {
+  font-family: "SUIT";
+  src: url("../../fonts/SUIT-Heavy.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
+/* NotoSansKR Thin */
+@font-face {
+  font-family: "NotoSansKR";
+  src: url("../../fonts/NotoSansKR-Thin.otf") format("opentype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* NotoSansKR Light */
+@font-face {
+  font-family: "NotoSansKR";
+  src: url("../../fonts/NotoSansKR-Light.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* NotoSansKR Regular */
+@font-face {
+  font-family: "NotoSansKR";
+  src: url("../../fonts/NotoSansKR-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* NotoSansKR Medium */
+@font-face {
+  font-family: "NotoSansKR";
+  src: url("../../fonts/NotoSansKR-Medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* NotoSansKR Bold */
+@font-face {
+  font-family: "NotoSansKR";
+  src: url("../../fonts/NotoSansKR-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* NotoSansKR Black */
+@font-face {
+  font-family: "NotoSansKR";
+  src: url("../../fonts/NotoSansKR-Black.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}

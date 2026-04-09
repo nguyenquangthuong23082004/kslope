@@ -1,0 +1,8 @@
+#header .inner .logo{
+    display: flex;
+    align-items: center;
+}
+#header .inner .logo .lang-switch{
+    display: flex;
+    margin-left: 20px;
+}

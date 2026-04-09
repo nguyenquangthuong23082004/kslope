@@ -1,0 +1,13 @@
+@media (max-width: 480px) {
+    .message-content p {
+        font-size: 0.8154rem;
+    }
+
+    .message-box {
+        min-height: 600px;
+    }
+
+    .message-text {
+        top: 169px;
+    }
+}

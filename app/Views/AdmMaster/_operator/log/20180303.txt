@@ -1,0 +1,120 @@
+
+
+2018.03.03 21:31:11(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04F003R['
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '3'
+					, regdate	= now()
+					, enddate	= '2018-03-16'
+		
+
+
+
+2018.03.03 21:31:11(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04F004FY'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '4'
+					, regdate	= now()
+					, enddate	= '2018-03-16'
+		
+
+
+
+2018.03.03 21:31:11(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04F005XZ'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '5'
+					, regdate	= now()
+					, enddate	= '2018-03-16'
+		
+
+
+
+2018.03.03 21:31:11(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04F006H]'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '6'
+					, regdate	= now()
+					, enddate	= '2018-03-16'
+		
+
+
+
+2018.03.03 21:31:11(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04F007I_'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '7'
+					, regdate	= now()
+					, enddate	= '2018-03-16'
+		
+
+
+
+2018.03.03 21:31:11(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04F008KY'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '8'
+					, regdate	= now()
+					, enddate	= '2018-03-16'
+		
+
+
+
+2018.03.03 21:31:11(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04F009G_'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '9'
+					, regdate	= now()
+					, enddate	= '2018-03-16'
+		
+
+
+
+2018.03.03 21:31:11(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04F00AUS'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '10'
+					, regdate	= now()
+					, enddate	= '2018-03-16'
+		
+
+
+
+2018.03.03 21:31:11(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04F00BBS'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '11'
+					, regdate	= now()
+					, enddate	= '2018-03-16'
+		
+
+
+
+2018.03.03 21:31:11(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04F00CGY'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '12'
+					, regdate	= now()
+					, enddate	= '2018-03-16'
+		
+

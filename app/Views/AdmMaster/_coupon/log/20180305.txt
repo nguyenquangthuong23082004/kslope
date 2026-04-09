@@ -1,0 +1,61 @@
+
+
+2018.03.05 14:19:10(218.55.70.22 /member/member_new.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set 
+					  user_id	= 'bad16a'
+					where coupon_num = '2C04E00ABQ'
+		
+
+
+
+2018.03.05 14:32:48(218.55.70.22 /member/member_new.php ) : 
+이미 발급되었거나 사용된 쿠폰입니다. : select * from tbl_coupon where coupon_num='2C04E00ABQ' 
+
+
+
+2018.03.05 14:33:54(218.55.70.22 /member/member_new.php ) : 
+이미 발급되었거나 사용된 쿠폰입니다. : select * from tbl_coupon where coupon_num='2C04E00ABQ' 
+
+
+
+2018.03.05 14:35:32(218.55.70.22 /member/member_new.php ) : 
+이미 발급되었거나 사용된 쿠폰입니다:select * from tbl_coupon where coupon_num='2C04E00ABQ' 
+
+
+
+2018.03.05 14:36:54(218.55.70.22 /member/member_new.php ) : 
+이미 발급되었거나 사용된 쿠폰입니다:select * from tbl_coupon where coupon_num='2C04E00ABQ' 
+
+
+
+2018.03.05 14:37:03(218.55.70.22 /member/member_new.php ) : 
+존재하지 않는 쿠폰입니다:2C04E00AB1Q
+
+
+
+2018.03.05 15:00:50(218.55.70.22 /member/member_reg_ok.php ) : 
+존재하지 않는 쿠폰입니다:bad16a5
+
+
+
+2018.03.05 15:00:50(218.55.70.22 /member/member_reg_ok.php ) : 
+존재하지 않는 쿠폰입니다:bad16a5
+
+
+
+2018.03.05 15:02:43(218.55.70.22 /member/member_reg_ok.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set 
+					  user_id	= 'bad16a6'
+					 ,status	= 'N'
+					where coupon_num = '2C051017YD'
+		
+
+
+
+2018.03.05 15:02:43(218.55.70.22 /member/member_reg_ok.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set 
+					  user_id	= 'bad16a6'
+					 ,status	= 'N'
+					where coupon_num = '2C051018OD'
+		
+

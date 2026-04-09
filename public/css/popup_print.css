@@ -1,0 +1,500 @@
+.popup_wrap {
+    background-color: rgba(0, 0, 0, 0.4);
+    display: none;
+}
+
+.popup_wrap .popup_content {
+    background-color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 40px 70px;
+    border-radius: 10px;
+    display: flex;
+    gap: 20px;
+}
+
+.popup_wrap .popup_content .box_item {
+    padding: 20px 30px;
+    border-radius: 20px;
+    position: relative;
+}
+
+.popup_wrap .popup_content .box_item .text_head {
+    position: absolute;
+    top: -32px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 20px;
+}
+
+.popup_wrap .popup_content .box_item h2 {
+    text-align: center;
+    font-size: 18px;
+    color: #056eb7;
+    margin-bottom: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.popup_content .box_item h2 img {
+    width: 120px;
+}
+
+.popup_wrap .popup_content .box_item h2 span {
+    font-size: 16px;
+    color: #252525;
+    margin-left: 10px;
+}
+
+.popup_wrap .popup_content .box_item .print_ttl {
+    font-size: 48px;
+    margin-bottom: 40px;
+    text-align: center;
+    letter-spacing: 4.2px;
+    color: #333;
+}
+
+.popup_wrap .popup_content .user_info {
+    margin-bottom: 60px;
+}
+
+.popup_wrap .popup_content .user_info dl {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.popup_wrap .popup_content .user_info dl dt {
+    min-width: 100px;
+    position: relative;
+}
+
+.popup_wrap .popup_content .user_info dl dt::after {
+    content: ":";
+    font-size: 13pt;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0;
+}
+
+.popup_wrap .popup_content .user_info dl dd {
+    margin-left: 30px;
+}
+
+.popup_wrap .popup_content .certi {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.3;
+    text-align: center;
+    position: relative;
+    /* background: url(../img/sub/kopec_logo.png) no-repeat center center / auto 100%; khi in tắt đồ họa nền không thể thấy background */
+    margin: 70px auto;
+    padding: 28px 0 16px;
+    background: url(../img/sub/kopec_logo.png) no-repeat center center/auto 100%;
+}
+
+.popup_wrap .popup_content .certi img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.popup_wrap .popup_content .certi_sec {
+    text-align: center;
+}
+
+.popup_wrap .popup_content .certi_sec .serti_name {
+    display: inline-block;
+    font-size: 24px;
+    font-weight: 700;
+    padding: 25px 20px 25px;
+    /* background: url(../img/sub/stamp.png) no-repeat right center / 95px auto; */
+    background-size: 70px;
+    position: relative;
+}
+
+.popup_wrap .popup_content .certi_sec .serti_name img {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    width: 72px;
+}
+
+.popup_wrap .popup_content .certi_sec + p {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 12px 0 25px;
+}
+
+.popup_wrap .popup_content .close_popup {
+    position: absolute;
+    top: 6px;
+    right: 6px;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.popup_wrap .popup_content .user_info {
+    padding-left: 30px;
+}
+
+@media print {
+    /* .popup_wrap {
+        display: none;
+        overflow: hidden;
+      }
+
+      .popup_wrap .popup_content {
+          background-color: #fff;
+          transform: translate(-50%, -50%);
+          padding: 20px 30px;
+          border-radius: 10px;
+          width: 794px;
+          display: flex;
+          gap: 20px;
+          margin: 0 auto;
+          display: flex;
+          justify-content: center;
+          position: relative;
+      }
+      .popup_wrap .popup_content .close_popup {
+          display: none;
+      }
+
+      .popup_wrap .popup_content .certi_sec {
+          font-size: 16px;
+      } */
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    .popup_content {
+        background-color: #fff;
+        position: relative;
+        padding: 40px 50px;
+        border-radius: 10px;
+        display: flex;
+        gap: 20px;
+    }
+
+    .popup_content .box_item {
+        padding: 20px 30px;
+        border-radius: 20px;
+        position: relative;
+    }
+
+    .popup_content .box_item .text_head {
+        position: absolute;
+        top: -32px;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 20px;
+    }
+
+    .popup_content .box_item h2 {
+        text-align: center;
+        font-size: 18px;
+        color: #056eb7;
+        margin-bottom: 13px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .box_item h2 img {
+        width: 120px;
+    }
+
+    .popup_content .box_item h2 span {
+        font-size: 16px;
+        color: #252525;
+        margin-left: 10px;
+    }
+
+    .popup_content .box_item .print_ttl {
+        font-size: 48px;
+        margin-bottom: 40px;
+        text-align: center;
+        letter-spacing: 4.2px;
+        color: #333;
+    }
+
+    .popup_content .user_info {
+        margin-bottom: 160px;
+    }
+
+    .popup_content .user_info dl {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .popup_content .user_info dl dt {
+        min-width: 100px;
+        position: relative;
+    }
+
+    .popup_content .user_info dl dt::after {
+        content: ":";
+        font-size: 13pt;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        right: 0;
+    }
+
+    .popup_content .user_info dl dd {
+        margin-left: 10px;
+    }
+
+    .popup_content .certi {
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 1.3;
+        text-align: center;
+        margin: 70px auto;
+        padding: 28px 0 16px;
+        background: url(../img/sub/kopec_logo.png) no-repeat center center/auto 100%;
+    }
+
+    .popup_content .certi_sec {
+        text-align: center;
+    }
+
+    .popup_content .certi_sec .serti_name {
+        display: inline-block;
+        font-size: 24px;
+        font-weight: 700;
+        padding: 25px 20px 25px;
+        /* background: url(../img/sub/stamp.png) no-repeat right center / 95px auto; */
+        background-size: 70px;
+        position: relative;
+    }
+
+    .popup_content .certi_sec .serti_name img {
+        position: absolute;
+        top: 50%;
+        right: 0;
+        transform: translateY(-50%);
+        width: 72px;
+    }
+
+    .popup_content .certi_sec + p {
+        text-align: center;
+        font-size: 16px;
+        font-weight: 500;
+        margin: 12px 0 25px;
+    }
+
+    .popup_content .close_popup {
+        position: absolute;
+        top: 6px;
+        right: 6px;
+        cursor: pointer;
+        padding: 10px;
+        display: none;
+    }
+
+    .popup_content .user_info {
+        margin-bottom: 60px;
+    }
+
+    .popup_content .user_info dl {
+        margin-bottom: 10px;
+    }
+
+    .popup_content .certi {
+        margin-bottom: 50px;
+    }
+
+    .popup_wrap .popup_content {
+        width: 794px;
+        display: flex;
+        justify-content: center;
+    }
+
+    #container {
+        display: none;
+    }
+
+    .popup_content .certi_sec p {
+        font-size: 16px;
+    }
+
+    .popup_wrap .popup_content .box_item .print_ttl {
+        font-size: 54px;
+        font-weight: 500;
+        margin-bottom: 90px;
+        text-align: center;
+        letter-spacing: 4.2px;
+        color: #333;
+    }
+
+    .popup_wrap .popup_content .user_info dl {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        font-size: 18px;
+        margin-bottom: 18px;
+    }
+
+    .popup_wrap .popup_content .certi {
+        font-size: 28px;
+        font-weight: 600;
+        margin-bottom: 60px;
+        line-height: 1.3;
+        text-align: center;
+        padding: 10px 0 10px;
+        position: relative;
+    }
+
+    .popup_wrap .popup_content .certi_sec + p {
+        text-align: center;
+        font-size: 19px;
+        font-weight: 500;
+        margin: 20px 0 32px;
+    }
+
+    .popup_wrap .popup_content .certi_sec .serti_name {
+        display: inline-block;
+        font-size: 28px;
+        font-weight: 700;
+        padding: 25px 20px 25px;
+        /* background: url(../img/sub/stamp.png) no-repeat right center / 95px auto; */
+        background-size: 70px;
+        position: relative;
+        margin-top: 18px;
+    }
+
+    .popup_wrap .popup_content .certi_sec .serti_name img {
+        position: absolute;
+        top: 50%;
+        right: 0;
+        transform: translateY(-50%);
+        width: 90px;
+    }
+
+
+}
+
+@media screen and (max-width: 768px) {
+    .popup_wrap .popup_content {
+        background-color: #fff;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        padding: 2rem 3rem;
+        border-radius: 10px;
+        display: flex;
+    }
+
+    .popup_wrap .popup_content .box_item .print_ttl {
+        font-size: 2.1rem;
+        margin-bottom: 1.5385rem;
+        text-align: center;
+        letter-spacing: 4.2px;
+        color: #333;
+    }
+
+    .popup_wrap .popup_content .user_info {
+        margin-bottom: 2.3077rem;
+    }
+
+    .popup_wrap .popup_content .user_info dl {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        font-size: 0.8923rem;
+        margin-bottom: 0.5846rem;
+    }
+
+    .popup_wrap .popup_content .user_info dl dt {
+        min-width: 3.8462rem;
+        position: relative;
+    }
+
+    .popup_wrap .popup_content .user_info dl dd {
+        margin-left: 0.3846rem;
+    }
+
+    .popup_wrap .popup_content .certi {
+        font-size: 1.1rem;
+        font-weight: 600;
+        margin-bottom: 1.9231rem;
+        line-height: 1.3;
+        text-align: center;
+    }
+
+    .popup_wrap .popup_content .certi br {
+        display: none;
+    }
+
+    .popup_wrap .popup_content .certi_sec .serti_name {
+        display: inline-block;
+        font-size: 1.1rem;
+        font-weight: 700;
+        padding: 0.9615rem 0.7692rem 0.9615rem;
+        text-wrap: nowrap;
+    }
+
+    .popup_wrap .popup_content .certi_sec .serti_name img {
+        position: absolute;
+        top: 50%;
+        right: 0;
+        transform: translateY(-50%);
+        width: 2.7692rem;
+    }
+
+    .popup_wrap .popup_content .certi_sec + p {
+        text-align: center;
+        font-size: 0.8154rem;
+        font-weight: 500;
+        margin: 0.4615rem 0 0.9615rem;
+    }
+
+    .popup_wrap .popup_content .box_item h2 img {
+        width: 5.6154rem;
+    }
+
+    .popup_wrap .popup_content .box_item h2 span {
+        font-size: 0.6154rem;
+        color: #252525;
+        margin-left: 0.3846rem;
+    }
+
+    .popup_wrap .popup_content .close_popup {
+        position: absolute;
+        top: 0.2308rem;
+        right: 0.2308rem;
+        cursor: pointer;
+        padding: 0.3846rem;
+    }
+
+    .popup_wrap .popup_content .close_popup img {
+        width: 0.7692rem;
+    }
+
+    .popup_wrap .popup_content .certi_sec {
+        font-size: 0.8154rem;
+    }
+
+    .popup_wrap .popup_content .box_item {
+        padding: 0;
+        border-radius: 20px;
+        position: relative;
+    }
+}

@@ -1,0 +1,140 @@
+
+
+2020.08.19 10:47:02(39.115.125.45 /inicis/INIpay50/INIStdPaySample/INIStdPayReturn.php ) : 
+주문건 만큼 재고 감소 :  update tbl_goods_option
+												  set goods_cnt = goods_cnt - 1
+												where idx = '3'
+											 
+
+
+
+2020.08.19 10:49:47(39.115.125.45 /inicis/INIpay50/INIStdPaySample/INIStdPayReturn.php ) : 
+주문건 만큼 재고 감소 :  update tbl_goods_option
+												  set goods_cnt = goods_cnt - 1
+												where idx = '3'
+											 
+
+
+
+2020.08.19 10:51:10(39.115.125.45 /AdmMaster/_order/order_update.php ) : 
+취소 주문건 자동 삭제 (재고 추가) :  update tbl_goods_option
+								  set goods_cnt = goods_cnt + 1
+								where idx = '3'
+							 
+
+
+
+2020.08.19 10:51:10(39.115.125.45 /AdmMaster/_order/order_update.php ) : 
+주문 취소로 인한 적립 포인트 취소 : 
+							insert into tbl_point SET
+								 user_id		= 'admin'
+								,o_idx			= '15978017568'
+								,msg			= '주문 취소로 인한 적립 포인트 취소'
+								,point			= '-0'
+								,regdate		= now()
+							
+
+
+
+2020.08.19 10:51:26(39.115.125.45 /AdmMaster/_order/order_chg_list.php ) : 
+취소 주문건 자동 삭제 (재고 추가) :  update tbl_goods_option
+									  set goods_cnt = goods_cnt + 1
+									where idx = '3'
+								 
+
+
+
+2020.08.19 10:51:26(39.115.125.45 /AdmMaster/_order/order_chg_list.php ) : 
+주문 취소로 인한 적립 포인트 취소 : 
+								insert into tbl_point SET
+									 user_id		= 'admin'
+									,o_idx			= '15978015932'
+									,msg			= '주문 취소로 인한 적립 포인트 취소'
+									,point			= '-0'
+									,regdate		= now()
+								
+
+
+
+2020.08.19 10:57:59(39.115.125.45 /inicis/INIpay50/INIStdPaySample/INIStdPayReturn.php ) : 
+주문건 만큼 재고 감소 :  update tbl_goods_option
+												  set goods_cnt = goods_cnt - 1
+												where idx = '3'
+											 
+
+
+
+2020.08.19 10:59:18(39.115.125.45 /AdmMaster/_order/order_chg_list.php ) : 
+취소 주문건 자동 삭제 (재고 추가) :  update tbl_goods_option
+									  set goods_cnt = goods_cnt + 1
+									where idx = '3'
+								 
+
+
+
+2020.08.19 10:59:18(39.115.125.45 /AdmMaster/_order/order_chg_list.php ) : 
+주문 취소로 인한 적립 포인트 취소 : 
+								insert into tbl_point SET
+									 user_id		= 'admin'
+									,o_idx			= '15978022512'
+									,msg			= '주문 취소로 인한 적립 포인트 취소'
+									,point			= '-0'
+									,regdate		= now()
+								
+
+
+
+2020.08.19 11:00:01(39.115.125.45 /inicis/INIpay50/INIStdPaySample/INIStdPayReturn.php ) : 
+주문건 만큼 재고 감소 :  update tbl_goods_option
+												  set goods_cnt = goods_cnt - 1
+												where idx = '3'
+											 
+
+
+
+2020.08.19 11:00:28(39.115.125.45 /AdmMaster/_order/order_update.php ) : 
+취소 주문건 자동 삭제 (재고 추가) :  update tbl_goods_option
+								  set goods_cnt = goods_cnt + 1
+								where idx = '3'
+							 
+
+
+
+2020.08.19 11:00:28(39.115.125.45 /AdmMaster/_order/order_update.php ) : 
+주문 취소로 인한 적립 포인트 취소 : 
+							insert into tbl_point SET
+								 user_id		= 'admin'
+								,o_idx			= '15978023707'
+								,msg			= '주문 취소로 인한 적립 포인트 취소'
+								,point			= '-0'
+								,regdate		= now()
+							
+
+
+
+2020.08.19 11:05:44(39.115.125.45 /inicis/INIpay50/INIStdPaySample/INIStdPayReturn.php ) : 
+주문건 만큼 재고 감소 :  update tbl_goods_option
+												  set goods_cnt = goods_cnt - 1
+												where idx = '3'
+											 
+
+
+
+2020.08.19 11:07:29(39.115.125.45 /AdmMaster/_order/order_update.php ) : 
+취소 주문건 자동 삭제 (재고 추가) :  update tbl_goods_option
+								  set goods_cnt = goods_cnt + 1
+								where idx = '3'
+							 
+
+
+
+2020.08.19 11:07:29(39.115.125.45 /AdmMaster/_order/order_update.php ) : 
+주문 취소로 인한 적립 포인트 취소 : 
+							insert into tbl_point SET
+								 user_id		= 'admin'
+								,o_idx			= '15978027187'
+								,msg			= '주문 취소로 인한 적립 포인트 취소'
+								,point			= '-0'
+								,regdate		= now()
+							
+

@@ -1,0 +1,36 @@
+
+
+2020.05.29 11:27:24(39.115.125.45 /member/member_reg_ok.php ) : 
+회원가입 추가 포인트 : 
+			insert into tbl_point SET
+				 user_id		= 'minke1'
+				,o_idx			= ''
+				,msg			= '회원가입 축하'
+				,point			= '2000'
+				,regdate		= now()
+			
+
+
+
+2020.05.29 11:29:33(39.115.125.45 /member/member_reg_ok.php ) : 
+회원가입 추가 포인트 : 
+			insert into tbl_point SET
+				 user_id		= 'minke2'
+				,o_idx			= ''
+				,msg			= '회원가입 축하'
+				,point			= '2000'
+				,regdate		= now()
+			
+
+
+
+2020.05.29 11:39:57(39.115.125.45 /member/member_reg_ok.php ) : 
+회원가입 추가 포인트 : 
+			insert into tbl_point SET
+				 user_id		= 'minke5'
+				,o_idx			= ''
+				,msg			= '회원가입 축하'
+				,point			= '2000'
+				,regdate		= now()
+			
+

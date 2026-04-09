@@ -1,0 +1,228 @@
+
+
+2018.05.05 12:16:09(180.224.124.28 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|2||201||20101|'
+			,product_group			= '10404'
+			,goods_seoson			= '5'
+			,goods_name_front		= '엠버 44'
+			,goods_name_back		= 'Teal Grey'
+			,goods_name_en			= 'Amber 44'
+			,goods_color			= 'Teal Grey'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10349'
+			,goods_make_date		= ''
+			,goods_country			= '1231'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= 'Y'
+			,goods_icon				= ''
+			,product_dbcolor		= '|#00dbd3|'
+			,md_comment				= '트레일 플렉스 시리즈는 현대적인 옵션과 유선형의 매끄러운 디자인, 어떠한 여정에도 적합한 기능의 다양성을 제공 합니다. 신체에 맞게 조절이 가능한 서스펜션과 통풍이 우수한 백패널 구조는 개인 맞춤형 피팅과 높아진 쾌적함을 줍니다. 내구성이 높은 경량의 원단과 사용 목적이 명확한 디테일들은 트레일에서 그레고리의 40년의 경험에 부합하는 뛰어난 퍼포먼스와 가치있는 경험들을 사용자에게 전달 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '259000'
+			,price_dc				= ''
+			,price_se				= '259000'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10021|'
+			,product_size			= '|10|'
+			,product_option			= '|10021:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/DWoxtEwBmkY&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;p&gt;&lt;img src=&#34/data/editor/160.jpg&#34 title=&#34160.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/161.jpg&#34 title=&#34161.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13962'
+	
+
+
+
+2018.05.05 12:18:55(180.224.124.28 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|2||201||20101|'
+			,product_group			= '10404'
+			,goods_seoson			= '5'
+			,goods_name_front		= '엠버 44'
+			,goods_name_back		= 'Teal Grey'
+			,goods_name_en			= 'Amber 44'
+			,goods_color			= 'Teal Grey'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10349'
+			,goods_make_date		= ''
+			,goods_country			= '1231'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#00dbd3|'
+			,md_comment				= '트레일 플렉스 시리즈는 현대적인 옵션과 유선형의 매끄러운 디자인, 어떠한 여정에도 적합한 기능의 다양성을 제공 합니다. 신체에 맞게 조절이 가능한 서스펜션과 통풍이 우수한 백패널 구조는 개인 맞춤형 피팅과 높아진 쾌적함을 줍니다. 내구성이 높은 경량의 원단과 사용 목적이 명확한 디테일들은 트레일에서 그레고리의 40년의 경험에 부합하는 뛰어난 퍼포먼스와 가치있는 경험들을 사용자에게 전달 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '259000'
+			,price_dc				= ''
+			,price_se				= '259000'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10021|'
+			,product_size			= '|10|'
+			,product_option			= '|10021:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/DWoxtEwBmkY&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;p&gt;&lt;img src=&#34/data/editor/160.jpg&#34 title=&#34160.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/161.jpg&#34 title=&#34161.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13962'
+	
+
+
+
+2018.05.05 12:19:14(180.224.124.28 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|2||201||20101|'
+			,product_group			= '10404'
+			,goods_seoson			= '5'
+			,goods_name_front		= '엠버 44'
+			,goods_name_back		= 'Teal Grey'
+			,goods_name_en			= 'Amber 44'
+			,goods_color			= 'Teal Grey'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10349'
+			,goods_make_date		= ''
+			,goods_country			= '1231'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#00dbd3|'
+			,md_comment				= '트레일 플렉스 시리즈는 현대적인 옵션과 유선형의 매끄러운 디자인, 어떠한 여정에도 적합한 기능의 다양성을 제공 합니다. 신체에 맞게 조절이 가능한 서스펜션과 통풍이 우수한 백패널 구조는 개인 맞춤형 피팅과 높아진 쾌적함을 줍니다. 내구성이 높은 경량의 원단과 사용 목적이 명확한 디테일들은 트레일에서 그레고리의 40년의 경험에 부합하는 뛰어난 퍼포먼스와 가치있는 경험들을 사용자에게 전달 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '259000'
+			,price_dc				= ''
+			,price_se				= '259000'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'Y'
+			,dis_date_s				= '2018-05-04'
+			,dis_date_e				= '2018-05-12'
+			,price_ds				= '1000'
+			,product_color			= '|10021|'
+			,product_size			= '|10|'
+			,product_option			= '|10021:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/DWoxtEwBmkY&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;p&gt;&lt;img src=&#34/data/editor/160.jpg&#34 title=&#34160.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/161.jpg&#34 title=&#34161.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13962'
+	
+
+
+
+2018.05.05 12:19:41(180.224.124.28 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|2||201||20101|'
+			,product_group			= '10404'
+			,goods_seoson			= '5'
+			,goods_name_front		= '엠버 44'
+			,goods_name_back		= 'Teal Grey'
+			,goods_name_en			= 'Amber 44'
+			,goods_color			= 'Teal Grey'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10349'
+			,goods_make_date		= ''
+			,goods_country			= '1231'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#00dbd3|'
+			,md_comment				= '트레일 플렉스 시리즈는 현대적인 옵션과 유선형의 매끄러운 디자인, 어떠한 여정에도 적합한 기능의 다양성을 제공 합니다. 신체에 맞게 조절이 가능한 서스펜션과 통풍이 우수한 백패널 구조는 개인 맞춤형 피팅과 높아진 쾌적함을 줍니다. 내구성이 높은 경량의 원단과 사용 목적이 명확한 디테일들은 트레일에서 그레고리의 40년의 경험에 부합하는 뛰어난 퍼포먼스와 가치있는 경험들을 사용자에게 전달 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '259000'
+			,price_dc				= ''
+			,price_se				= '259000'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10021|'
+			,product_size			= '|10|'
+			,product_option			= '|10021:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/DWoxtEwBmkY&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;p&gt;&lt;img src=&#34/data/editor/160.jpg&#34 title=&#34160.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/161.jpg&#34 title=&#34161.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13962'
+	
+

@@ -1,0 +1,8 @@
+
+
+2020.11.23 14:27:59(39.115.125.45 /item/cart_order_ajax_ok.php ) : 
+주문건 만큼 재고 감소 :  update tbl_goods_option
+							  set goods_cnt = goods_cnt - 1
+							where idx = '4'
+						 
+

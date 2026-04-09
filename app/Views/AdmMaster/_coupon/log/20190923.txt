@@ -1,0 +1,88 @@
+
+
+2019.09.23 12:03:26(39.115.125.45 /item/cart_order_ajax_ok.php ) : 
+쿠폰사용(유저) :  update tbl_coupon set
+				 status	= 'E'
+				where coupon_num = '2E9C9004DE'
+	
+
+
+
+2019.09.23 12:03:26(39.115.125.45 /item/cart_order_ajax_ok.php ) : 
+쿠폰사용(유저) :  update tbl_coupon set
+				 status	= 'E'
+				where coupon_num = '2E9C9006OI'
+	
+
+
+
+2019.09.23 14:22:11(39.115.125.45 /item/cart_order_ajax_ok.php ) : 
+쿠폰사용(유저) :  update tbl_coupon set
+				 status	= 'E'
+				where coupon_num = '2E9C9007ZL'
+	
+
+
+
+2019.09.23 14:22:11(39.115.125.45 /item/cart_order_ajax_ok.php ) : 
+쿠폰사용(유저) :  update tbl_coupon set
+				 status	= 'E'
+				where coupon_num = '2E9C9005CE'
+	
+
+
+
+2019.09.23 14:22:11(39.115.125.45 /item/cart_order_ajax_ok.php ) : 
+쿠폰사용(유저) :  update tbl_coupon set
+				 status	= 'E'
+				where coupon_num = '2E9C9006OI'
+	
+
+
+
+2019.09.23 15:32:18(39.115.125.45 /item/cart_order_ajax_ok.php ) : 
+쿠폰사용(유저) :  update tbl_coupon set
+				 status	= 'E'
+				where coupon_num = '2E9C9007ZL'
+	
+
+
+
+2019.09.23 15:32:19(39.115.125.45 /item/cart_order_ajax_ok.php ) : 
+쿠폰사용(유저) :  update tbl_coupon set
+				 status	= 'E'
+				where coupon_num = '2E9C9004DE'
+	
+
+
+
+2019.09.23 15:32:19(39.115.125.45 /item/cart_order_ajax_ok.php ) : 
+쿠폰사용(유저) :  update tbl_coupon set
+				 status	= 'E'
+				where coupon_num = '2E9C9006OI'
+	
+
+
+
+2019.09.23 16:08:51(39.115.125.45 /item/cart_order_ajax_ok.php ) : 
+쿠폰사용(유저) :  update tbl_coupon set
+				 status	= 'E'
+				where coupon_num = '2E9C9006OI'
+	
+
+
+
+2019.09.23 16:08:51(39.115.125.45 /item/cart_order_ajax_ok.php ) : 
+쿠폰사용(유저) :  update tbl_coupon set
+				 status	= 'E'
+				where coupon_num = '2E9C9005CE'
+	
+
+
+
+2019.09.23 16:08:51(39.115.125.45 /item/cart_order_ajax_ok.php ) : 
+쿠폰사용(유저) :  update tbl_coupon set
+				 status	= 'E'
+				where coupon_num = '2E9C9008DI'
+	
+

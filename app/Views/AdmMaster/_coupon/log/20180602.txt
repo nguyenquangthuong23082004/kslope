@@ -1,0 +1,588 @@
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A001CV'
+						, coupon_type	= ''
+						, types			= 'B'
+						, status		= 'D'
+						, last_idx		= '1'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'kimchul0602'
+					 ,status	= 'N'
+					where coupon_num = '2C17A001CV'
+		
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A002EY'
+						, coupon_type	= ''
+						, types			= 'B'
+						, status		= 'D'
+						, last_idx		= '2'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'guggl122'
+					 ,status	= 'N'
+					where coupon_num = '2C17A002EY'
+		
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A003TW'
+						, coupon_type	= ''
+						, types			= 'B'
+						, status		= 'D'
+						, last_idx		= '3'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'kjs9644'
+					 ,status	= 'N'
+					where coupon_num = '2C17A003TW'
+		
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A004CY'
+						, coupon_type	= ''
+						, types			= 'B'
+						, status		= 'D'
+						, last_idx		= '4'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'jks9736'
+					 ,status	= 'N'
+					where coupon_num = '2C17A004CY'
+		
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A005FC'
+						, coupon_type	= ''
+						, types			= 'B'
+						, status		= 'D'
+						, last_idx		= '5'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'adad5004'
+					 ,status	= 'N'
+					where coupon_num = '2C17A005FC'
+		
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A006OD'
+						, coupon_type	= ''
+						, types			= 'B'
+						, status		= 'D'
+						, last_idx		= '6'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'sm1789'
+					 ,status	= 'N'
+					where coupon_num = '2C17A006OD'
+		
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A007HG'
+						, coupon_type	= ''
+						, types			= 'B'
+						, status		= 'D'
+						, last_idx		= '7'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'id1303'
+					 ,status	= 'N'
+					where coupon_num = '2C17A007HG'
+		
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A008UC'
+						, coupon_type	= ''
+						, types			= 'B'
+						, status		= 'D'
+						, last_idx		= '8'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'woolim54'
+					 ,status	= 'N'
+					where coupon_num = '2C17A008UC'
+		
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A009AB'
+						, coupon_type	= ''
+						, types			= 'B'
+						, status		= 'D'
+						, last_idx		= '9'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'c7191a'
+					 ,status	= 'N'
+					where coupon_num = '2C17A009AB'
+		
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A00AVW'
+						, coupon_type	= ''
+						, types			= 'B'
+						, status		= 'D'
+						, last_idx		= '10'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 's121910'
+					 ,status	= 'N'
+					where coupon_num = '2C17A00AVW'
+		
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A00BAU'
+						, coupon_type	= ''
+						, types			= 'B'
+						, status		= 'D'
+						, last_idx		= '11'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'klll7410'
+					 ,status	= 'N'
+					where coupon_num = '2C17A00BAU'
+		
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A00CAV'
+						, coupon_type	= ''
+						, types			= 'B'
+						, status		= 'D'
+						, last_idx		= '12'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'jbha3309'
+					 ,status	= 'N'
+					where coupon_num = '2C17A00CAV'
+		
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A00DWA'
+						, coupon_type	= ''
+						, types			= 'B'
+						, status		= 'D'
+						, last_idx		= '13'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'pyj1962'
+					 ,status	= 'N'
+					where coupon_num = '2C17A00DWA'
+		
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A00ESG'
+						, coupon_type	= ''
+						, types			= 'B'
+						, status		= 'D'
+						, last_idx		= '14'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'is06020424'
+					 ,status	= 'N'
+					where coupon_num = '2C17A00ESG'
+		
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A00FZF'
+						, coupon_type	= ''
+						, types			= 'B'
+						, status		= 'D'
+						, last_idx		= '15'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'jang3344'
+					 ,status	= 'N'
+					where coupon_num = '2C17A00FZF'
+		
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A010XE'
+						, coupon_type	= ''
+						, types			= 'B'
+						, status		= 'D'
+						, last_idx		= '16'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'ktjstone'
+					 ,status	= 'N'
+					where coupon_num = '2C17A010XE'
+		
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A011WE'
+						, coupon_type	= ''
+						, types			= 'B'
+						, status		= 'D'
+						, last_idx		= '17'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'gtk7231'
+					 ,status	= 'N'
+					where coupon_num = '2C17A011WE'
+		
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A012EF'
+						, coupon_type	= ''
+						, types			= 'B'
+						, status		= 'D'
+						, last_idx		= '18'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'mihwangp2'
+					 ,status	= 'N'
+					where coupon_num = '2C17A012EF'
+		
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A013FH'
+						, coupon_type	= ''
+						, types			= 'B'
+						, status		= 'D'
+						, last_idx		= '19'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 0:05:01(175.126.62.212 /autoexec/auto_birth.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'cki6169'
+					 ,status	= 'N'
+					where coupon_num = '2C17A013FH'
+		
+
+
+
+2018.06.02 5:57:02(2.51.158.62 /login/login_check.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A014YA'
+						, coupon_type	= ''
+						, types			= 'M'
+						, status		= 'D'
+						, last_idx		= '20'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 5:57:02(2.51.158.62 /login/login_check.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'taktin'
+					 ,status	= 'N'
+					where coupon_num = '2C17A014YA'
+		
+
+
+
+2018.06.02 11:08:17(115.178.87.194 /login/login_check.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A015OA'
+						, coupon_type	= ''
+						, types			= 'M'
+						, status		= 'D'
+						, last_idx		= '21'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 11:08:17(115.178.87.194 /login/login_check.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'ejongill'
+					 ,status	= 'N'
+					where coupon_num = '2C17A015OA'
+		
+
+
+
+2018.06.02 12:16:34(36.39.17.73 /login/login_check.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A016ZD'
+						, coupon_type	= ''
+						, types			= 'M'
+						, status		= 'D'
+						, last_idx		= '22'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 12:16:34(36.39.17.73 /login/login_check.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'ptkcs9'
+					 ,status	= 'N'
+					where coupon_num = '2C17A016ZD'
+		
+
+
+
+2018.06.02 12:17:21(39.119.194.69 /login/login_check.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A017WB'
+						, coupon_type	= ''
+						, types			= 'M'
+						, status		= 'D'
+						, last_idx		= '23'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 12:17:21(39.119.194.69 /login/login_check.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'sshan001'
+					 ,status	= 'N'
+					where coupon_num = '2C17A017WB'
+		
+
+
+
+2018.06.02 12:55:24(36.39.17.107 /item/cart_order_m_ajax_ok.php ) : 
+쿠폰사용(유저) :  update tbl_coupon set
+				 status	= 'E'
+				where coupon_num = '2C17A016ZD'
+	
+
+
+
+2018.06.02 18:01:37(58.227.77.118 /login/login_check.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A018GE'
+						, coupon_type	= ''
+						, types			= 'M'
+						, status		= 'D'
+						, last_idx		= '24'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 18:01:37(58.227.77.118 /login/login_check.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'ggtchel2'
+					 ,status	= 'N'
+					where coupon_num = '2C17A018GE'
+		
+
+
+
+2018.06.02 22:26:13(180.229.76.8 /member/member_reg_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A019FE'
+						, coupon_type	= ''
+						, types			= 'M'
+						, status		= 'D'
+						, last_idx		= '25'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 22:26:13(180.229.76.8 /member/member_reg_ok.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'booheelee'
+					 ,status	= 'N'
+					where coupon_num = '2C17A019FE'
+		
+
+
+
+2018.06.02 22:43:51(58.121.99.146 /member/member_reg_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C17A01AKB'
+						, coupon_type	= ''
+						, types			= 'M'
+						, status		= 'D'
+						, last_idx		= '26'
+						, regdate		= now()
+						, enddate		= '2018-07-03'
+			
+
+
+
+2018.06.02 22:43:51(58.121.99.146 /member/member_reg_ok.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'k71145907'
+					 ,status	= 'N'
+					where coupon_num = '2C17A01AKB'
+		
+
+
+
+2018.06.02 22:48:42(58.121.99.146 /item/cart_order_ajax_ok.php ) : 
+쿠폰사용(유저) :  update tbl_coupon set
+				 status	= 'E'
+				where coupon_num = '2C17A01AKB'
+	
+

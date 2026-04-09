@@ -1,0 +1,8 @@
+
+
+2020.10.26 17:19:32(118.129.240.30 /inicis/INIpay50/INIStdPaySample/INIStdPayReturn.php ) : 
+주문건 만큼 재고 감소 :  update tbl_goods_option
+												  set goods_cnt = goods_cnt - 1
+												where idx = '6'
+											 
+

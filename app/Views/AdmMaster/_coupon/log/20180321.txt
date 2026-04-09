@@ -1,0 +1,27 @@
+
+
+2018.03.21 12:47:05(218.55.70.22 /main/regi_coupon.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2C05F00EVF'
+		
+
+
+
+2018.03.21 12:52:15(218.55.70.22 /main/regi_coupon.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2C05F00DEF'
+		
+
+
+
+2018.03.21 12:52:28(218.55.70.22 /main/regi_coupon.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2C05F00CZH'
+		
+

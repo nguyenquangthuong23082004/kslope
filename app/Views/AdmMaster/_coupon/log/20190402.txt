@@ -1,0 +1,35 @@
+
+
+2019.04.02 16:41:46(39.115.125.45 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E7C2001JS'
+					, coupon_type	= '13'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '1'
+					, regdate	= now()
+					, enddate	= '2019-05-03'
+		
+
+
+
+2019.04.02 16:45:20(39.115.125.45 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E7C2002SC'
+					, coupon_type	= '14'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '2'
+					, regdate	= now()
+					, enddate	= '2027-06-20'
+		
+
+
+
+2019.04.02 16:45:30(39.115.125.45 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'pibada4444'
+					 ,status	= 'N'
+					where coupon_num = '2E7C2002SC'
+		
+

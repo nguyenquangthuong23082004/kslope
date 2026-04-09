@@ -1,0 +1,208 @@
+@page {
+    size: 210mm 297mm;
+    /*  margin: 42.7mm 17.6mm 20.8mm; */
+}
+
+body {
+    font-size: 9pt;
+    padding: 60px 50px;
+}
+
+.page {
+    width: 100%;
+    height: calc(297mm - 150px);
+    position: relative;
+}
+
+.to {
+    font-size: 10pt;
+    font-weight: 500;
+}
+
+.to span {
+    display: inline-block;
+    padding-bottom: 10px;
+    border-bottom: solid 1px #252525;
+    margin-right: 10px;
+}
+
+.print_ttl {
+    font-size: 40pt;
+    font-weight: 500;
+    margin: 50px 0;
+    text-align: center;
+}
+
+.print_ttl2 {
+    font-size: 24pt;
+    font-weight: 500;
+    margin: 20px 0 40px;
+    text-align: center;
+}
+
+.page table {
+    width: 100%;
+    table-layout: fixed;
+    border-top: solid 1px #252525;
+    margin-bottom: 40px;
+}
+
+.page table th {
+    background: #fafafa;
+}
+
+.page table tr {
+    border-bottom: solid 1px #dbdbdb;
+}
+
+.tbst1 th {
+    text-align: left;
+    padding-left: 20px;
+    font-weight: 500;
+}
+
+.tbst1 td {
+    padding: 15px 10px;
+}
+
+.tbst2 th,
+.tbst2 td {
+    padding: 15px 0;
+}
+
+.tbst2 td:not(.subject) {
+    text-align: center;
+}
+
+.tbst2 td.subject {
+    padding-left: 20px;
+}
+
+.guide_sec {
+    padding: 30px;
+    background: #f9f9f9;
+}
+
+.guide_sec dl dt,
+.guide_sec dl dd {
+    line-height: 1.75;
+}
+
+.guide_sec dl dd {
+    color: #666;
+    padding-left: 10px;
+}
+
+.page .date {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.bill_txt {
+    text-align: center;
+}
+
+.bill_txt h3 {
+    font-weight: 700;
+    font-size: 18pt;
+    margin: 40px 0 30px;
+}
+
+.bill_txt p {
+    font-size: 13.5pt;
+    line-height: 1.5;
+}
+
+.page .user_info {
+    max-width: 450px;
+    margin: 0 auto;
+}
+
+.page .user_info dl {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.page .user_info dl + dl {
+    margin-top: 18px;
+}
+
+.page .user_info dl dt {
+    width: 120px;
+    font-size: 13pt;
+    position: relative;
+}
+
+.page .user_info dl dt::after {
+    content: ":";
+    font-size: 13pt;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0;
+}
+
+.page .user_info dl dd {
+    width: calc(100% - 120px);
+    font-size: 13pt;
+    padding-left: 30px;
+}
+
+.page .certi {
+    font-size: 19pt;
+    line-height: 1.35;
+    text-align: center;
+    margin: 70px auto;
+    padding: 22px 0 22px;
+    background: url(../img/sub/kopec_logo.png) no-repeat center center/auto 100%;
+}
+
+.page .certi_sec {
+    text-align: center;
+}
+
+.page .certi_sec p {
+    font-size: 10pt;
+    text-align: center;
+}
+
+.page .certi_sec p.serti_name {
+    display: inline-block;
+    font-size: 21pt;
+    font-weight: 700;
+    padding: 35px 20px 35px;
+    background: url(../img/sub/ì„¼í„°ìž¥_ì¸.png) no-repeat right center/95px auto;
+}
+
+.page .certi_sec + p {
+    text-align: center;
+    font-size: 11pt;
+    font-weight: 500;
+    margin: 10px 0 48px;
+}
+
+.page .certi_sec.certi02 p.serti_name {
+    background-image: url('../img/sub/ì´ì‚¬ìž¥_ì¸.png');
+}
+
+@media print {
+
+    html,
+    body {
+        margin: 0;
+        padding: 0;
+        page-break-after: avoid;
+        page-break-before: avoid;
+    }
+
+    * {
+        -webkit-print-color-adjust: exact !important; /* Chrome, Safari, Edge */
+        color-adjust: exact !important; /*Firefox*/
+    }
+
+    .page table th {
+        background-color: #fafafa !important;
+    }
+}

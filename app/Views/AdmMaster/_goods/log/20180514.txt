@@ -1,0 +1,2845 @@
+
+
+2018.05.14 16:12:31(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|107||10702|'
+			,product_group			= '105'
+			,goods_seoson			= '2'
+			,goods_name_front		= '콘빅트2'
+			,goods_name_back		= '남성용'
+			,goods_name_en			= 'Convict2'
+			,goods_color			= '카키'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10342'
+			,goods_make_date		= ''
+			,goods_country			= '1232'
+			,make_co				= ''
+			,gender					= '1'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#0d6d16|'
+			,md_comment				= ''
+			,item_state				= 'sale'
+			,admin_memo				= '피킹감과 경량성이 향상된 아웃도어 샌들'
+			,price_mk				= '99000'
+			,price_dc				= ''
+			,price_se				= '69300'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10014|'
+			,product_size			= '|9|'
+			,product_option			= '|10014:87||10014:89||10014:91||10014:93|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= '260'
+			,use_month				= '|5||6||7||8||9|'
+			,content				= '&lt;div style=&#34text-align: center;&#34 align=&#34center&#34&gt;&lt;img title=&#34201705091137098288.JPG&#34 src=&#34/smarteditor/photo_uploader/upload/201705091137098288.JPG&#34&gt;&lt;img src=&#34/smarteditor/photo_uploader/upload/201706271633153620.png&#34 title=&#34201706271633153620.png&#34&gt;&lt;/div&gt;&lt;br style=&#34clear: both;&#34&gt;&lt;br&gt;'
+			,caution				= '&lt;br&gt;'
+			,mod_date				= now()
+		where g_idx = '13606'
+	
+
+
+
+2018.05.14 18:55:18(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '엠버 44'
+			,goods_name_back		= 'Teal Grey'
+			,goods_name_en			= 'Amber 44'
+			,goods_color			= 'Teal Grey'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#00dbd3|'
+			,md_comment				= '트레일 플렉스 시리즈는 현대적인 옵션과 유선형의 매끄러운 디자인, 어떠한 여정에도 적합한 기능의 다양성을 제공 합니다. 신체에 맞게 조절이 가능한 서스펜션과 통풍이 우수한 백패널 구조는 개인 맞춤형 피팅과 높아진 쾌적함을 줍니다. 내구성이 높은 경량의 원단과 사용 목적이 명확한 디테일들은 트레일에서 그레고리의 40년의 경험에 부합하는 뛰어난 퍼포먼스와 가치있는 경험들을 사용자에게 전달 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '259000'
+			,price_dc				= ''
+			,price_se				= '220150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10021|'
+			,product_size			= '|10|'
+			,product_option			= '|10021:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/DWoxtEwBmkY&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;p&gt;&lt;img src=&#34/data/editor/160.jpg&#34 title=&#34160.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/161.jpg&#34 title=&#34161.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13962'
+	
+
+
+
+2018.05.14 19:10:47(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '10404'
+			,goods_seoson			= '5'
+			,goods_name_front		= '엠버 44'
+			,goods_name_back		= 'Chili Pepper Red'
+			,goods_name_en			= 'Amber 44'
+			,goods_color			= 'Chili Pepper Red'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#E91819|'
+			,md_comment				= '트레일 플렉스 시리즈는 현대적인 옵션과 유선형의 매끄러운 디자인, 어떠한 여정에도 적합한 기능의 다양성을 제공 합니다. 신체에 맞게 조절이 가능한 서스펜션과 통풍이 우수한 백패널 구조는 개인 맞춤형 피팅과 높아진 쾌적함을 줍니다. 내구성이 높은 경량의 원단과 사용 목적이 명확한 디테일들은 트레일에서 그레고리의 40년의 경험에 부합하는 뛰어난 퍼포먼스와 가치있는 경험들을 사용자에게 전달 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '259000'
+			,price_dc				= ''
+			,price_se				= '220150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10009|'
+			,product_size			= '|10|'
+			,product_option			= '|10009:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/DWoxtEwBmkY&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;p&gt;&lt;img src=&#34/data/editor/152.jpg&#34 title=&#34152.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/153.jpg&#34 title=&#34153.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13961'
+	
+
+
+
+2018.05.14 19:11:13(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '엠버 34'
+			,goods_name_back		= 'Teal Grey'
+			,goods_name_en			= 'Amber 34'
+			,goods_color			= 'Teal Grey'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#00dbd3|'
+			,md_comment				= '트레일 플렉스 시리즈는 현대적인 옵션과 유선형의 매끄러운 디자인, 어떠한 여정에도 적합한 기능의 다양성을 제공 합니다. 신체에 맞게 조절이 가능한 서스펜션과 통풍이 우수한 백패널 구조는 개인 맞춤형 피팅과 높아진 쾌적함을 줍니다. 내구성이 높은 경량의 원단과 사용 목적이 명확한 디테일들은 트레일에서 그레고리의 40년의 경험에 부합하는 뛰어난 퍼포먼스와 가치있는 경험들을 사용자에게 전달 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '239000'
+			,price_dc				= ''
+			,price_se				= '203150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10021|'
+			,product_size			= '|10|'
+			,product_option			= '|10021:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/DWoxtEwBmkY&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;p&gt;&lt;img src=&#34/data/editor/149.jpg&#34 title=&#34149.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/150.jpg&#34 title=&#34150.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13960'
+	
+
+
+
+2018.05.14 19:11:24(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '엠버 34'
+			,goods_name_back		= 'Pearl Blue'
+			,goods_name_en			= 'Amber 34'
+			,goods_color			= 'Pearl Blue'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#3030F8|'
+			,md_comment				= '트레일 플렉스 시리즈는 현대적인 옵션과 유선형의 매끄러운 디자인, 어떠한 여정에도 적합한 기능의 다양성을 제공 합니다. 신체에 맞게 조절이 가능한 서스펜션과 통풍이 우수한 백패널 구조는 개인 맞춤형 피팅과 높아진 쾌적함을 줍니다. 내구성이 높은 경량의 원단과 사용 목적이 명확한 디테일들은 트레일에서 그레고리의 40년의 경험에 부합하는 뛰어난 퍼포먼스와 가치있는 경험들을 사용자에게 전달 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '239000'
+			,price_dc				= ''
+			,price_se				= '203150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10012|'
+			,product_size			= '|10|'
+			,product_option			= '|10012:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/DWoxtEwBmkY&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;p&gt;&lt;img src=&#34/data/editor/146.jpg&#34 title=&#34146.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/147.jpg&#34 title=&#34147.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13959'
+	
+
+
+
+2018.05.14 19:11:38(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '10404'
+			,goods_seoson			= '5'
+			,goods_name_front		= '엠버 34'
+			,goods_name_back		= 'Chili Pepper Red'
+			,goods_name_en			= 'Amber 34'
+			,goods_color			= 'Chili Pepper Red'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#E91819|'
+			,md_comment				= '트레일 플렉스 시리즈는 현대적인 옵션과 유선형의 매끄러운 디자인, 어떠한 여정에도 적합한 기능의 다양성을 제공 합니다. 신체에 맞게 조절이 가능한 서스펜션과 통풍이 우수한 백패널 구조는 개인 맞춤형 피팅과 높아진 쾌적함을 줍니다. 내구성이 높은 경량의 원단과 사용 목적이 명확한 디테일들은 트레일에서 그레고리의 40년의 경험에 부합하는 뛰어난 퍼포먼스와 가치있는 경험들을 사용자에게 전달 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '239000'
+			,price_dc				= ''
+			,price_se				= '203150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10009|'
+			,product_size			= '|10|'
+			,product_option			= '|10009:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/DWoxtEwBmkY&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/137.jpg&#34 title=&#34137.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;
+
+
+
+
+&lt;/p&gt;&lt;p&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13958'
+	
+
+
+
+2018.05.14 19:11:53(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '엠버 28'
+			,goods_name_back		= 'Teal Grey'
+			,goods_name_en			= 'Amber 28'
+			,goods_color			= 'Teal Grey'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#00dbd3|'
+			,md_comment				= '트레일 플렉스 시리즈는 현대적인 옵션과 유선형의 매끄러운 디자인, 어떠한 여정에도 적합한 기능의 다양성을 제공 합니다. 신체에 맞게 조절이 가능한 서스펜션과 통풍이 우수한 백패널 구조는 개인 맞춤형 피팅과 높아진 쾌적함을 줍니다. 내구성이 높은 경량의 원단과 사용 목적이 명확한 디테일들은 트레일에서 그레고리의 40년의 경험에 부합하는 뛰어난 퍼포먼스와 가치있는 경험들을 사용자에게 전달 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '219000'
+			,price_dc				= ''
+			,price_se				= '186150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10021|'
+			,product_size			= '|10|'
+			,product_option			= '|10021:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/DWoxtEwBmkY&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;p&gt;&lt;img src=&#34/data/editor/134.jpg&#34 title=&#34134.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/135.jpg&#34 title=&#34135.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13957'
+	
+
+
+
+2018.05.14 19:12:27(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '1'
+			,goods_seoson			= '5'
+			,goods_name_front		= '파라곤 68'
+			,goods_name_back		= 'Suns&#101t Grey'
+			,goods_name_en			= 'PARAGON 68'
+			,goods_color			= 'Suns&#101t Grey'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#8C8C8C|'
+			,md_comment				= '효과적인 무게분배 효율의 철학 하에 설계된 새로운 서스펜션,
+Aerolon이 적용 된 새로운 경량 백팩은 기존의 초경량 백팩과 고사양 프리미엄 백팩간의 갭을 채워 줍니다. 
+민척하고 매끈한 디자인이지만 필요 기능은 모두 갖춘 백팩으로 일상을 잠시 뒤로하고 신나는 모험을 찾는 분들께 보다 진보된 경량의 알루미늄 프레임의 테크놀로지를 선사 합니다.
+Aerolon 만의 유니크한 Matrix 백 패널 통풍 기술은 동급 종량 가운데 가장 가볍고 편안한 개인 맞춤형 서스펜션 이며 데이팩과 보조 수낭으로 혼용이 가능한 사이드 킥 팩, 내장된 레인커버, 활동 반경을 고려한 수납공간 설계로 사용자가 편하게 여정을 즐길 수 있게 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '369000'
+			,price_dc				= ''
+			,price_se				= '313650'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10021|'
+			,product_size			= '|10|'
+			,product_option			= '|10021:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/F5hTUm9f7JE&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/210.jpg&#34 title=&#34210.jpg&#34&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/211.jpg&#34 title=&#34211.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13970'
+	
+
+
+
+2018.05.14 19:12:46(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '10404'
+			,goods_seoson			= '5'
+			,goods_name_front		= '파라곤 58'
+			,goods_name_back		= 'Suns&#101t Grey'
+			,goods_name_en			= 'PARAGON 58'
+			,goods_color			= 'Suns&#101t Grey'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#8C8C8C|'
+			,md_comment				= '효과적인 무게분배 효율의 철학 하에 설계된 새로운 서스펜션,
+Aerolon이 적용 된 새로운 경량 백팩은 기존의 초경량 백팩과 고사양 프리미엄 백팩간의 갭을 채워 줍니다. 
+민척하고 매끈한 디자인이지만 필요 기능은 모두 갖춘 백팩으로 일상을 잠시 뒤로하고 신나는 모험을 찾는 분들께 보다 진보된 경량의 알루미늄 프레임의 테크놀로지를 선사 합니다.
+Aerolon 만의 유니크한 Matrix 백 패널 통풍 기술은 동급 종량 가운데 가장 가볍고 편안한 개인 맞춤형 서스펜션 이며 데이팩과 보조 수낭으로 혼용이 가능한 사이드 킥 팩, 내장된 레인커버, 활동 반경을 고려한 수납공간 설계로 사용자가 편하게 여정을 즐길 수 있게 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '369000'
+			,price_dc				= ''
+			,price_se				= '313650'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10021|'
+			,product_size			= '|10|'
+			,product_option			= '|10021:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/F5hTUm9f7JE&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/201.jpg&#34 title=&#34201.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/202.jpg&#34 title=&#34202.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13969'
+	
+
+
+
+2018.05.14 19:13:07(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '파라곤 48'
+			,goods_name_back		= 'Citrus Red'
+			,goods_name_en			= 'PARAGON 48'
+			,goods_color			= 'Citrus Red'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#E91819|'
+			,md_comment				= '효과적인 무게분배 효율의 철학 하에 설계된 새로운 서스펜션,
+Aerolon이 적용 된 새로운 경량 백팩은 기존의 초경량 백팩과 고사양 프리미엄 백팩간의 갭을 채워 줍니다. 
+민척하고 매끈한 디자인이지만 필요 기능은 모두 갖춘 백팩으로 일상을 잠시 뒤로하고 신나는 모험을 찾는 분들께 보다 진보된 경량의 알루미늄 프레임의 테크놀로지를 선사 합니다.
+Aerolon 만의 유니크한 Matrix 백 패널 통풍 기술은 동급 종량 가운데 가장 가볍고 편안한 개인 맞춤형 서스펜션 이며 데이팩과 보조 수낭으로 혼용이 가능한 사이드 킥 팩, 내장된 레인커버, 활동 반경을 고려한 수납공간 설계로 사용자가 편하게 여정을 즐길 수 있게 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '329000'
+			,price_dc				= ''
+			,price_se				= '279650'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10009|'
+			,product_size			= '|10|'
+			,product_option			= '|10009:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/F5hTUm9f7JE&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/192.jpg&#34 title=&#34192.jpg&#34&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/193.jpg&#34 title=&#34193.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13968'
+	
+
+
+
+2018.05.14 19:13:28(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '파라곤 48'
+			,goods_name_back		= 'Omega Blue'
+			,goods_name_en			= 'PARAGON 48'
+			,goods_color			= 'Omega Blue'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#3030F8|'
+			,md_comment				= '효과적인 무게분배 효율의 철학 하에 설계된 새로운 서스펜션,
+Aerolon이 적용 된 새로운 경량 백팩은 기존의 초경량 백팩과 고사양 프리미엄 백팩간의 갭을 채워 줍니다. 
+민척하고 매끈한 디자인이지만 필요 기능은 모두 갖춘 백팩으로 일상을 잠시 뒤로하고 신나는 모험을 찾는 분들께 보다 진보된 경량의 알루미늄 프레임의 테크놀로지를 선사 합니다.
+Aerolon 만의 유니크한 Matrix 백 패널 통풍 기술은 동급 종량 가운데 가장 가볍고 편안한 개인 맞춤형 서스펜션 이며 데이팩과 보조 수낭으로 혼용이 가능한 사이드 킥 팩, 내장된 레인커버, 활동 반경을 고려한 수납공간 설계로 사용자가 편하게 여정을 즐길 수 있게 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '329000'
+			,price_dc				= ''
+			,price_se				= '279650'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10012|'
+			,product_size			= '|10|'
+			,product_option			= '|10012:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/F5hTUm9f7JE&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/188.jpg&#34 title=&#34188.jpg&#34&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/189.jpg&#34 title=&#34189.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13967'
+	
+
+
+
+2018.05.14 19:13:45(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '파라곤 48'
+			,goods_name_back		= 'Suns&#101t Grey'
+			,goods_name_en			= 'PARAGON 48'
+			,goods_color			= 'Suns&#101t Grey'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#8C8C8C|'
+			,md_comment				= '효과적인 무게분배 효율의 철학 하에 설계된 새로운 서스펜션,
+Aerolon이 적용 된 새로운 경량 백팩은 기존의 초경량 백팩과 고사양 프리미엄 백팩간의 갭을 채워 줍니다. 
+민척하고 매끈한 디자인이지만 필요 기능은 모두 갖춘 백팩으로 일상을 잠시 뒤로하고 신나는 모험을 찾는 분들께 보다 진보된 경량의 알루미늄 프레임의 테크놀로지를 선사 합니다.
+Aerolon 만의 유니크한 Matrix 백 패널 통풍 기술은 동급 종량 가운데 가장 가볍고 편안한 개인 맞춤형 서스펜션 이며 데이팩과 보조 수낭으로 혼용이 가능한 사이드 킥 팩, 내장된 레인커버, 활동 반경을 고려한 수납공간 설계로 사용자가 편하게 여정을 즐길 수 있게 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '329000'
+			,price_dc				= ''
+			,price_se				= '279650'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10021|'
+			,product_size			= '|10|'
+			,product_option			= '|10021:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/F5hTUm9f7JE&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/180.jpg&#34 title=&#34180.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/181.jpg&#34 title=&#34181.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;
+
+
+
+&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13966'
+	
+
+
+
+2018.05.14 19:14:06(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '파라곤 38'
+			,goods_name_back		= 'Omega Blue'
+			,goods_name_en			= 'PARAGON 38'
+			,goods_color			= 'Omega Blue'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#3030F8|'
+			,md_comment				= '효과적인 무게분배 효율의 철학 하에 설계된 새로운 서스펜션,
+Aerolon이 적용 된 새로운 경량 백팩은 기존의 초경량 백팩과 고사양 프리미엄 백팩간의 갭을 채워 줍니다. 
+민척하고 매끈한 디자인이지만 필요 기능은 모두 갖춘 백팩으로 일상을 잠시 뒤로하고 신나는 모험을 찾는 분들께 보다 진보된 경량의 알루미늄 프레임의 테크놀로지를 선사 합니다.
+Aerolon 만의 유니크한 Matrix 백 패널 통풍 기술은 동급 종량 가운데 가장 가볍고 편안한 개인 맞춤형 서스펜션 이며 데이팩과 보조 수낭으로 혼용이 가능한 사이드 킥 팩, 내장된 레인커버, 활동 반경을 고려한 수납공간 설계로 사용자가 편하게 여정을 즐길 수 있게 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '299000'
+			,price_dc				= ''
+			,price_se				= '254150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10012|'
+			,product_size			= '|10|'
+			,product_option			= '|10012:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/F5hTUm9f7JE&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/176.jpg&#34 title=&#34176.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/177.jpg&#34 title=&#34177.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13965'
+	
+
+
+
+2018.05.14 19:14:18(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '파라곤 38'
+			,goods_name_back		= 'Citrus Red'
+			,goods_name_en			= 'PARAGON 38'
+			,goods_color			= 'Citrus Red'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#E91819|'
+			,md_comment				= '효과적인 무게분배 효율의 철학 하에 설계된 새로운 서스펜션,
+Aerolon이 적용 된 새로운 경량 백팩은 기존의 초경량 백팩과 고사양 프리미엄 백팩간의 갭을 채워 줍니다. 
+민척하고 매끈한 디자인이지만 필요 기능은 모두 갖춘 백팩으로 일상을 잠시 뒤로하고 신나는 모험을 찾는 분들께 보다 진보된 경량의 알루미늄 프레임의 테크놀로지를 선사 합니다.
+Aerolon 만의 유니크한 Matrix 백 패널 통풍 기술은 동급 종량 가운데 가장 가볍고 편안한 개인 맞춤형 서스펜션 이며 데이팩과 보조 수낭으로 혼용이 가능한 사이드 킥 팩, 내장된 레인커버, 활동 반경을 고려한 수납공간 설계로 사용자가 편하게 여정을 즐길 수 있게 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '299000'
+			,price_dc				= ''
+			,price_se				= '254150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10012|'
+			,product_size			= '|10|'
+			,product_option			= '|10012:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/F5hTUm9f7JE&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/172.jpg&#34 title=&#34172.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/173.jpg&#34 title=&#34173.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;
+
+
+
+&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13964'
+	
+
+
+
+2018.05.14 19:14:30(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '10404'
+			,goods_seoson			= '5'
+			,goods_name_front		= '파라곤 38'
+			,goods_name_back		= 'Suns&#101t Grey'
+			,goods_name_en			= 'PARAGON 38'
+			,goods_color			= 'Suns&#101t Grey'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#8C8C8C|'
+			,md_comment				= '효과적인 무게분배 효율의 철학 하에 설계된 새로운 서스펜션,
+Aerolon이 적용 된 새로운 경량 백팩은 기존의 초경량 백팩과 고사양 프리미엄 백팩간의 갭을 채워 줍니다. 
+민척하고 매끈한 디자인이지만 필요 기능은 모두 갖춘 백팩으로 일상을 잠시 뒤로하고 신나는 모험을 찾는 분들께 보다 진보된 경량의 알루미늄 프레임의 테크놀로지를 선사 합니다.
+Aerolon 만의 유니크한 Matrix 백 패널 통풍 기술은 동급 종량 가운데 가장 가볍고 편안한 개인 맞춤형 서스펜션 이며 데이팩과 보조 수낭으로 혼용이 가능한 사이드 킥 팩, 내장된 레인커버, 활동 반경을 고려한 수납공간 설계로 사용자가 편하게 여정을 즐길 수 있게 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '299000'
+			,price_dc				= ''
+			,price_se				= '254150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10021|'
+			,product_size			= '|10|'
+			,product_option			= '|10021:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/F5hTUm9f7JE&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/164.jpg&#34 title=&#34164.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/165.jpg&#34 title=&#34165.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13963'
+	
+
+
+
+2018.05.14 19:14:59(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '10404'
+			,goods_seoson			= '5'
+			,goods_name_front		= '메이븐 45'
+			,goods_name_back		= 'River Blue'
+			,goods_name_en			= 'MAVEN 45'
+			,goods_color			= 'River Blue'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#3030F8|'
+			,md_comment				= '효과적인 무게분배 효율의 철학 하에 설계된 새로운 서스펜션,
+Aerolon이 적용 된 새로운 경량 백팩은 기존의 초경량 백팩과 고사양 프리미엄 백팩간의 갭을 채워 줍니다. 
+민척하고 매끈한 디자인이지만 필요 기능은 모두 갖춘 백팩으로 일상을 잠시 뒤로하고 신나는 모험을 찾는 분들께 보다 진보된 경량의 알루미늄 프레임의 테크놀로지를 선사 합니다.
+Aerolon 만의 유니크한 Matrix 백 패널 통풍 기술은 동급 종량 가운데 가장 가볍고 편안한 개인 맞춤형 서스펜션 이며 데이팩과 보조 수낭으로 혼용이 가능한 사이드 킥 팩, 내장된 레인커버, 활동 반경을 고려한 수납공간 설계로 사용자가 편하게 여정을 즐길 수 있게 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '329000'
+			,price_dc				= ''
+			,price_se				= '279650'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10012|'
+			,product_size			= '|10|'
+			,product_option			= '|10012:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/rqnPhb74nFo&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/242.jpg&#34 title=&#34242.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/243.jpg&#34 title=&#34243.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13976'
+	
+
+
+
+2018.05.14 19:15:11(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '메이븐 45'
+			,goods_name_back		= 'Phoenix Red'
+			,goods_name_en			= 'MAVEN 45'
+			,goods_color			= 'Phoenix Red'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#E91819|'
+			,md_comment				= '효과적인 무게분배 효율의 철학 하에 설계된 새로운 서스펜션,
+Aerolon이 적용 된 새로운 경량 백팩은 기존의 초경량 백팩과 고사양 프리미엄 백팩간의 갭을 채워 줍니다. 
+민척하고 매끈한 디자인이지만 필요 기능은 모두 갖춘 백팩으로 일상을 잠시 뒤로하고 신나는 모험을 찾는 분들께 보다 진보된 경량의 알루미늄 프레임의 테크놀로지를 선사 합니다.
+Aerolon 만의 유니크한 Matrix 백 패널 통풍 기술은 동급 종량 가운데 가장 가볍고 편안한 개인 맞춤형 서스펜션 이며 데이팩과 보조 수낭으로 혼용이 가능한 사이드 킥 팩, 내장된 레인커버, 활동 반경을 고려한 수납공간 설계로 사용자가 편하게 여정을 즐길 수 있게 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '329000'
+			,price_dc				= ''
+			,price_se				= '279650'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10009|'
+			,product_size			= '|10|'
+			,product_option			= '|10009:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/rqnPhb74nFo&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/234.jpg&#34 title=&#34234.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/235.jpg&#34 title=&#34235.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13975'
+	
+
+
+
+2018.05.14 19:15:24(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '메이븐 45'
+			,goods_name_back		= 'Forest Grey'
+			,goods_name_en			= 'MAVEN 45'
+			,goods_color			= 'Forest Grey'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#8C8C8C|'
+			,md_comment				= '효과적인 무게분배 효율의 철학 하에 설계된 새로운 서스펜션,
+Aerolon이 적용 된 새로운 경량 백팩은 기존의 초경량 백팩과 고사양 프리미엄 백팩간의 갭을 채워 줍니다. 
+민척하고 매끈한 디자인이지만 필요 기능은 모두 갖춘 백팩으로 일상을 잠시 뒤로하고 신나는 모험을 찾는 분들께 보다 진보된 경량의 알루미늄 프레임의 테크놀로지를 선사 합니다.
+Aerolon 만의 유니크한 Matrix 백 패널 통풍 기술은 동급 종량 가운데 가장 가볍고 편안한 개인 맞춤형 서스펜션 이며 데이팩과 보조 수낭으로 혼용이 가능한 사이드 킥 팩, 내장된 레인커버, 활동 반경을 고려한 수납공간 설계로 사용자가 편하게 여정을 즐길 수 있게 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '329000'
+			,price_dc				= ''
+			,price_se				= '279650'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10021|'
+			,product_size			= '|10|'
+			,product_option			= '|10021:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/rqnPhb74nFo&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/230.jpg&#34 title=&#34230.jpg&#34&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/231.jpg&#34 title=&#34231.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13974'
+	
+
+
+
+2018.05.14 19:15:43(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '메이븐 35'
+			,goods_name_back		= 'River Blue'
+			,goods_name_en			= 'MAVEN 35'
+			,goods_color			= 'River Blue'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#3030F8|'
+			,md_comment				= '효과적인 무게분배 효율의 철학 하에 설계된 새로운 서스펜션,
+Aerolon이 적용 된 새로운 경량 백팩은 기존의 초경량 백팩과 고사양 프리미엄 백팩간의 갭을 채워 줍니다. 
+민척하고 매끈한 디자인이지만 필요 기능은 모두 갖춘 백팩으로 일상을 잠시 뒤로하고 신나는 모험을 찾는 분들께 보다 진보된 경량의 알루미늄 프레임의 테크놀로지를 선사 합니다.
+Aerolon 만의 유니크한 Matrix 백 패널 통풍 기술은 동급 종량 가운데 가장 가볍고 편안한 개인 맞춤형 서스펜션 이며 데이팩과 보조 수낭으로 혼용이 가능한 사이드 킥 팩, 내장된 레인커버, 활동 반경을 고려한 수납공간 설계로 사용자가 편하게 여정을 즐길 수 있게 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '299000'
+			,price_dc				= ''
+			,price_se				= '254150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10012|'
+			,product_size			= '|10|'
+			,product_option			= '|10012:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/rqnPhb74nFo&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/226.jpg&#34 title=&#34226.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/227.jpg&#34 title=&#34227.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13973'
+	
+
+
+
+2018.05.14 19:15:51(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '10404'
+			,goods_seoson			= '5'
+			,goods_name_front		= '메이븐 35'
+			,goods_name_back		= 'Forest Grey'
+			,goods_name_en			= 'MAVEN 35'
+			,goods_color			= 'Forest Grey'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#8C8C8C|'
+			,md_comment				= '효과적인 무게분배 효율의 철학 하에 설계된 새로운 서스펜션,
+Aerolon이 적용 된 새로운 경량 백팩은 기존의 초경량 백팩과 고사양 프리미엄 백팩간의 갭을 채워 줍니다. 
+민척하고 매끈한 디자인이지만 필요 기능은 모두 갖춘 백팩으로 일상을 잠시 뒤로하고 신나는 모험을 찾는 분들께 보다 진보된 경량의 알루미늄 프레임의 테크놀로지를 선사 합니다.
+Aerolon 만의 유니크한 Matrix 백 패널 통풍 기술은 동급 종량 가운데 가장 가볍고 편안한 개인 맞춤형 서스펜션 이며 데이팩과 보조 수낭으로 혼용이 가능한 사이드 킥 팩, 내장된 레인커버, 활동 반경을 고려한 수납공간 설계로 사용자가 편하게 여정을 즐길 수 있게 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '299000'
+			,price_dc				= ''
+			,price_se				= '254150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10021|'
+			,product_size			= '|10|'
+			,product_option			= '|10021:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/rqnPhb74nFo&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/222.jpg&#34 title=&#34222.jpg&#34&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/223.jpg&#34 title=&#34223.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13972'
+	
+
+
+
+2018.05.14 19:16:00(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '10404'
+			,goods_seoson			= '5'
+			,goods_name_front		= '메이븐 35'
+			,goods_name_back		= 'Phoenix Red'
+			,goods_name_en			= 'MAVEN 35'
+			,goods_color			= 'Phoenix Red'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#E91819|'
+			,md_comment				= '효과적인 무게분배 효율의 철학 하에 설계된 새로운 서스펜션,
+Aerolon이 적용 된 새로운 경량 백팩은 기존의 초경량 백팩과 고사양 프리미엄 백팩간의 갭을 채워 줍니다. 
+민척하고 매끈한 디자인이지만 필요 기능은 모두 갖춘 백팩으로 일상을 잠시 뒤로하고 신나는 모험을 찾는 분들께 보다 진보된 경량의 알루미늄 프레임의 테크놀로지를 선사 합니다.
+Aerolon 만의 유니크한 Matrix 백 패널 통풍 기술은 동급 종량 가운데 가장 가볍고 편안한 개인 맞춤형 서스펜션 이며 데이팩과 보조 수낭으로 혼용이 가능한 사이드 킥 팩, 내장된 레인커버, 활동 반경을 고려한 수납공간 설계로 사용자가 편하게 여정을 즐길 수 있게 합니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '299000'
+			,price_dc				= ''
+			,price_se				= '254150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10009|'
+			,product_size			= '|10|'
+			,product_option			= '|10009:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/rqnPhb74nFo&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/214.jpg&#34 title=&#34214.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/215.jpg&#34 title=&#34215.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13971'
+	
+
+
+
+2018.05.14 19:16:41(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|203|'
+			,product_group			= '10403'
+			,goods_seoson			= '5'
+			,goods_name_front		= '패드숄더파우치 S'
+			,goods_name_back		= 'Blue Tapestry'
+			,goods_name_en			= 'Pad Shoulder Pouch S'
+			,goods_color			= 'Blue Tapestry'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#3030F8|'
+			,md_comment				= 'DON&#39T CARRY, WEAR IT
+아웃도어를 제대로 즐기기 위해서는 장비로 인한 불필요한 불편함과 피로감을 최소화하여야 합니다. 다양한 아웃도어 환경에서도 버틸 수 있는 내구성과, 장시간 착용하면서도 에너지 소비를 최소화하기위해서각자에 맞는 최적의 착용감을 제공하는 백팩을 만드는 것. 이것이 바로 Gregory의 브랜드 철학입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '49000'
+			,price_dc				= ''
+			,price_se				= '41650'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10012|'
+			,product_size			= '|10|'
+			,product_option			= '|10012:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;&lt;img src=&#34/data/editor/289.jpg&#34 title=&#34289.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13994'
+	
+
+
+
+2018.05.14 19:16:53(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|203|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '패드숄더파우치 S'
+			,goods_name_back		= 'Garden Tapestry'
+			,goods_name_en			= 'Pad Shoulder Pouch S'
+			,goods_color			= 'Garden Tapestry'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#477759|'
+			,md_comment				= 'DON&#39T CARRY, WEAR IT
+아웃도어를 제대로 즐기기 위해서는 장비로 인한 불필요한 불편함과 피로감을 최소화하여야 합니다. 다양한 아웃도어 환경에서도 버틸 수 있는 내구성과, 장시간 착용하면서도 에너지 소비를 최소화하기위해서각자에 맞는 최적의 착용감을 제공하는 백팩을 만드는 것. 이것이 바로 Gregory의 브랜드 철학입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '49000'
+			,price_dc				= ''
+			,price_se				= '41650'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10126|'
+			,product_size			= '|10|'
+			,product_option			= '|10126:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;&lt;img src=&#34/data/editor/289.jpg&#34 title=&#34289.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13993'
+	
+
+
+
+2018.05.14 19:17:06(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|203|'
+			,product_group			= '10403'
+			,goods_seoson			= '5'
+			,goods_name_front		= '패드숄더파우치 M'
+			,goods_name_back		= 'Garden Tapestry'
+			,goods_name_en			= 'Pad Shoulder Pouch M'
+			,goods_color			= 'Garden Tapestry'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#0d6d16|'
+			,md_comment				= 'DON&#39T CARRY, WEAR IT
+아웃도어를 제대로 즐기기 위해서는 장비로 인한 불필요한 불편함과 피로감을 최소화하여야 합니다. 다양한 아웃도어 환경에서도 버틸 수 있는 내구성과, 장시간 착용하면서도 에너지 소비를 최소화하기위해서각자에 맞는 최적의 착용감을 제공하는 백팩을 만드는 것. 이것이 바로 Gregory의 브랜드 철학입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '59000'
+			,price_dc				= ''
+			,price_se				= '50150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10126|'
+			,product_size			= '|10|'
+			,product_option			= '|10126:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;&lt;img src=&#34/data/editor/288.jpg&#34 title=&#34288.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13992'
+	
+
+
+
+2018.05.14 19:17:53(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|2||201||20101|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '스위프트 30'
+			,goods_name_back		= 'Orchid Red'
+			,goods_name_en			= 'Swift 30'
+			,goods_color			= 'Orchid Red'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#E91819|'
+			,md_comment				= 'DON&#39T CARRY, WEAR IT
+아웃도어를 제대로 즐기기 위해서는 장비로 인한 불필요한 불편함과 피로감을 최소화하여야 합니다. 다양한 아웃도어 환경에서도 버틸 수 있는 내구성과, 장시간 착용하면서도 에너지 소비를 최소화하기위해서각자에 맞는 최적의 착용감을 제공하는 백팩을 만드는 것. 이것이 바로 Gregory의 브랜드 철학입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '189000'
+			,price_dc				= ''
+			,price_se				= '160650'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10009|'
+			,product_size			= '|10|'
+			,product_option			= '|10009:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;iframe width=&#34854&#34 height=&#34480&#34 src=&#34https://www.youtube.com/embed/eE5JPPd5J6I&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;
+
+
+
+
+
+&lt;p&gt;&lt;img src=&#34/data/editor/297.jpg&#34 title=&#34297.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13998'
+	
+
+
+
+2018.05.14 19:18:09(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '스위프트 25'
+			,goods_name_back		= 'Catwalk Black'
+			,goods_name_en			= 'Swift 25'
+			,goods_color			= 'Catwalk Black'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#191919|'
+			,md_comment				= 'DON&#39T CARRY, WEAR IT
+아웃도어를 제대로 즐기기 위해서는 장비로 인한 불필요한 불편함과 피로감을 최소화하여야 합니다. 다양한 아웃도어 환경에서도 버틸 수 있는 내구성과, 장시간 착용하면서도 에너지 소비를 최소화하기위해서각자에 맞는 최적의 착용감을 제공하는 백팩을 만드는 것. 이것이 바로 Gregory의 브랜드 철학입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '179000'
+			,price_dc				= ''
+			,price_se				= '152150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10007|'
+			,product_size			= '|10|'
+			,product_option			= '|10007:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+
+&lt;iframe width=&#34854&#34 height=&#34480&#34 src=&#34https://www.youtube.com/embed/eE5JPPd5J6I&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/295.jpg&#34 title=&#34295.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13997'
+	
+
+
+
+2018.05.14 19:18:25(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '스위프트 20'
+			,goods_name_back		= 'Orchid Red'
+			,goods_name_en			= 'Swift 20'
+			,goods_color			= 'Orchid Red'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#E91819|'
+			,md_comment				= 'DON&#39T CARRY, WEAR IT
+아웃도어를 제대로 즐기기 위해서는 장비로 인한 불필요한 불편함과 피로감을 최소화하여야 합니다. 다양한 아웃도어 환경에서도 버틸 수 있는 내구성과, 장시간 착용하면서도 에너지 소비를 최소화하기위해서각자에 맞는 최적의 착용감을 제공하는 백팩을 만드는 것. 이것이 바로 Gregory의 브랜드 철학입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '159000'
+			,price_dc				= ''
+			,price_se				= '135150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10009|'
+			,product_size			= '|10|'
+			,product_option			= '|10009:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+
+&lt;iframe width=&#34854&#34 height=&#34480&#34 src=&#34https://www.youtube.com/embed/eE5JPPd5J6I&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/293.jpg&#34 title=&#34293.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13996'
+	
+
+
+
+2018.05.14 19:18:35(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '스위프트 20'
+			,goods_name_back		= 'Catwalk Black'
+			,goods_name_en			= 'Swift 20'
+			,goods_color			= 'Catwalk Black'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#191919|'
+			,md_comment				= 'DON&#39T CARRY, WEAR IT
+아웃도어를 제대로 즐기기 위해서는 장비로 인한 불필요한 불편함과 피로감을 최소화하여야 합니다. 다양한 아웃도어 환경에서도 버틸 수 있는 내구성과, 장시간 착용하면서도 에너지 소비를 최소화하기위해서각자에 맞는 최적의 착용감을 제공하는 백팩을 만드는 것. 이것이 바로 Gregory의 브랜드 철학입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '159000'
+			,price_dc				= ''
+			,price_se				= '135150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10007|'
+			,product_size			= '|10|'
+			,product_option			= '|10007:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+
+&lt;iframe width=&#34854&#34 height=&#34480&#34 src=&#34https://www.youtube.com/embed/eE5JPPd5J6I&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/293.jpg&#34 title=&#34293.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13995'
+	
+
+
+
+2018.05.14 19:19:25(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|203|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '스핀 슬링'
+			,goods_name_back		= 'Black Ballistic'
+			,goods_name_en			= 'SPIN SLING'
+			,goods_color			= 'Black Ballistic'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#191919|'
+			,md_comment				= '1977년 Gregory의 시작부터 함께 했던 모델입니다.
+편안하게 몸에 안착되는 피팅감을 위한 다양한 장치들과 거친 환경에서의 사용에도 버틸 수 있는 내구력 있는 소재와 패턴 접목을 통해 전통적인 동시에 가장 진보적인 라인으로 진화 했습니다. 37년 이상 롱런하고 있는 스테디셀러로서 지금도 매년 새로운 패턴이 나오고, 당일산행부터 통근, 통행까지 가능한 라이프스타일에 특화된 라인입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '119000'
+			,price_dc				= ''
+			,price_se				= '101150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10007|'
+			,product_size			= '|10|'
+			,product_option			= '|10007:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+
+
+&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/-Na3rLVu1rU&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/262.jpg&#34 title=&#34262.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/263.jpg&#34 title=&#34263.jpg&#34&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/246.jpg&#34 title=&#34246.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13979'
+	
+
+
+
+2018.05.14 19:19:41(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|203|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '스위치 슬링'
+			,goods_name_back		= 'Blue Tapestry'
+			,goods_name_en			= 'SWITCH SLING'
+			,goods_color			= 'Blue Tapestry'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#0f799c|'
+			,md_comment				= '1977년 Gregory의 시작부터 함께 했던 모델입니다.
+편안하게 몸에 안착되는 피팅감을 위한 다양한 장치들과 거친 환경에서의 사용에도 버틸 수 있는 내구력 있는 소재와 패턴 접목을 통해 전통적인 동시에 가장 진보적인 라인으로 진화 했습니다. 37년 이상 롱런하고 있는 스테디셀러로서 지금도 매년 새로운 패턴이 나오고, 당일산행부터 통근, 통행까지 가능한 라이프스타일에 특화된 라인입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '99000'
+			,price_dc				= ''
+			,price_se				= '84150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10012|'
+			,product_size			= '|10|'
+			,product_option			= '|10012:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+
+
+&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/jO6SWebSmz8&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/254.jpg&#34 title=&#34254.jpg&#34&gt;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/255.jpg&#34 title=&#34255.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;img src=&#34/data/editor/246.jpg&#34 title=&#34246.jpg&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13978'
+	
+
+
+
+2018.05.14 19:19:49(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|203|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '스위치 슬링'
+			,goods_name_back		= 'Garden Tapestry'
+			,goods_name_en			= 'SWITCH SLING'
+			,goods_color			= 'Garden Tapestry'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#0d6d16|'
+			,md_comment				= '1977년 Gregory의 시작부터 함께 했던 모델입니다.
+편안하게 몸에 안착되는 피팅감을 위한 다양한 장치들과 거친 환경에서의 사용에도 버틸 수 있는 내구력 있는 소재와 패턴 접목을 통해 전통적인 동시에 가장 진보적인 라인으로 진화 했습니다. 37년 이상 롱런하고 있는 스테디셀러로서 지금도 매년 새로운 패턴이 나오고, 당일산행부터 통근, 통행까지 가능한 라이프스타일에 특화된 라인입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '99000'
+			,price_dc				= ''
+			,price_se				= '84150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10126|'
+			,product_size			= '|10|'
+			,product_option			= '|10126:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;&lt;iframe width=&#34980&#34 height=&#34551&#34 src=&#34https://www.youtube.com/embed/jO6SWebSmz8&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/HDL_IDSAMSONITEMALL_FD20170404101674530695AD3.htm.jpg&#34 title=&#34HDL_IDSAMSONITEMALL_FD20170404101674530695AD3.htm.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;
+
+
+
+
+&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/HDL_IDSAMSONITEMALL_FD201704041016745307FE322.htm.jpg&#34 title=&#34HDL_IDSAMSONITEMALL_FD201704041016745307FE322.htm.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/245.jpg&#34 title=&#34245.jpg&#34&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/246.jpg&#34 title=&#34246.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13977'
+	
+
+
+
+2018.05.14 19:20:14(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '옵틱 58'
+			,goods_name_back		= 'Lava Grey'
+			,goods_name_en			= 'Optic 58'
+			,goods_color			= 'Lava Grey'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#8C8C8C|'
+			,md_comment				= 'DON&#39T CARRY, WEAR IT
+아웃도어를 제대로 즐기기 위해서는 장비로 인한 불필요한 불편함과 피로감을 최소화하여야 합니다. 다양한 아웃도어 환경에서도 버틸 수 있는 내구성과, 장시간 착용하면서도 에너지 소비를 최소화하기위해서각자에 맞는 최적의 착용감을 제공하는 백팩을 만드는 것. 이것이 바로 Gregory의 브랜드 철학입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '379000'
+			,price_dc				= ''
+			,price_se				= '322150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10021|'
+			,product_size			= '|10|'
+			,product_option			= '|10021:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;iframe width=&#34900&#34 height=&#34480&#34 src=&#34https://www.youtube.com/embed/eKdMs31GzUo&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;p&gt;&lt;img src=&#34/data/editor/268.jpg&#34 title=&#34268.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13981'
+	
+
+
+
+2018.05.14 19:20:29(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '옵틱 48'
+			,goods_name_back		= 'Lava Grey'
+			,goods_name_en			= 'Optic 48'
+			,goods_color			= 'Lava Grey'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#8C8C8C|'
+			,md_comment				= 'DON&#39T CARRY, WEAR IT
+아웃도어를 제대로 즐기기 위해서는 장비로 인한 불필요한 불편함과 피로감을 최소화하여야 합니다. 다양한 아웃도어 환경에서도 버틸 수 있는 내구성과, 장시간 착용하면서도 에너지 소비를 최소화하기위해서각자에 맞는 최적의 착용감을 제공하는 백팩을 만드는 것. 이것이 바로 Gregory의 브랜드 철학입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '349000'
+			,price_dc				= ''
+			,price_se				= '296650'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10021|'
+			,product_size			= '|10|'
+			,product_option			= '|10021:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;iframe width=&#34900&#34 height=&#34480&#34 src=&#34https://www.youtube.com/embed/eKdMs31GzUo&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;p&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/265.jpg&#34 title=&#34265.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13980'
+	
+
+
+
+2018.05.14 19:20:54(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '옥탈 45'
+			,goods_name_back		= 'Frost Gery'
+			,goods_name_en			= 'Octal'
+			,goods_color			= 'Frost Gery'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#8C8C8C|'
+			,md_comment				= 'DON&#39T CARRY, WEAR IT
+아웃도어를 제대로 즐기기 위해서는 장비로 인한 불필요한 불편함과 피로감을 최소화하여야 합니다. 다양한 아웃도어 환경에서도 버틸 수 있는 내구성과, 장시간 착용하면서도 에너지 소비를 최소화하기위해서각자에 맞는 최적의 착용감을 제공하는 백팩을 만드는 것. 이것이 바로 Gregory의 브랜드 철학입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '349000'
+			,price_dc				= ''
+			,price_se				= '296650'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10021|'
+			,product_size			= '|10|'
+			,product_option			= '|10021:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+
+&lt;iframe width=&#34900&#34 height=&#34480&#34 src=&#34https://www.youtube.com/embed/YjPUOqF5Wnw&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/270.jpg&#34 title=&#34270.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13982'
+	
+
+
+
+2018.05.14 19:25:06(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '10404'
+			,goods_seoson			= '5'
+			,goods_name_front		= '알파가 Rt'
+			,goods_name_back		= '블랙'
+			,goods_name_en			= 'Alpaga Rt'
+			,goods_color			= '블랙'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#191919|'
+			,md_comment				= 'DON&#39T CARRY, WEAR IT
+아웃도어를 제대로 즐기기 위해서는 장비로 인한 불필요한 불편함과 피로감을 최소화하여야 합니다. 다양한 아웃도어 환경에서도 버틸 수 있는 내구성과, 장시간 착용하면서도 에너지 소비를 최소화하기위해서각자에 맞는 최적의 착용감을 제공하는 백팩을 만드는 것. 이것이 바로 Gregory의 브랜드 철학입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '199000'
+			,price_dc				= ''
+			,price_se				= '169150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10007|'
+			,product_size			= '|10|'
+			,product_option			= '|10007:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;&lt;img src=&#34/data/editor/272.jpg&#34 title=&#34272.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13983'
+	
+
+
+
+2018.05.14 19:25:31(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '10404'
+			,goods_seoson			= '5'
+			,goods_name_front		= '이너티아 30'
+			,goods_name_back		= 'Estate Blue'
+			,goods_name_en			= 'Inertia 30'
+			,goods_color			= 'Estate Blue'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '1'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#3030F8|'
+			,md_comment				= 'DON&#39T CARRY, WEAR IT
+아웃도어를 제대로 즐기기 위해서는 장비로 인한 불필요한 불편함과 피로감을 최소화하여야 합니다. 다양한 아웃도어 환경에서도 버틸 수 있는 내구성과, 장시간 착용하면서도 에너지 소비를 최소화하기위해서각자에 맞는 최적의 착용감을 제공하는 백팩을 만드는 것. 이것이 바로 Gregory의 브랜드 철학입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '179000'
+			,price_dc				= ''
+			,price_se				= '152150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10012|'
+			,product_size			= '|10|'
+			,product_option			= '|10012:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;iframe width=&#34854&#34 height=&#34480&#34 src=&#34https://www.youtube.com/embed/bevlzmdegzU&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;
+
+
+
+
+
+&lt;p&gt;&lt;img src=&#34/data/editor/280.jpg&#34 title=&#34280.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13989'
+	
+
+
+
+2018.05.14 19:25:41(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '10404'
+			,goods_seoson			= '5'
+			,goods_name_front		= '이너티아 30'
+			,goods_name_back		= 'Ferrous Orange'
+			,goods_name_en			= 'Inertia 30'
+			,goods_color			= 'Ferrous Orange'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '1'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#FF9900|'
+			,md_comment				= 'DON&#39T CARRY, WEAR IT
+아웃도어를 제대로 즐기기 위해서는 장비로 인한 불필요한 불편함과 피로감을 최소화하여야 합니다. 다양한 아웃도어 환경에서도 버틸 수 있는 내구성과, 장시간 착용하면서도 에너지 소비를 최소화하기위해서각자에 맞는 최적의 착용감을 제공하는 백팩을 만드는 것. 이것이 바로 Gregory의 브랜드 철학입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '179000'
+			,price_dc				= ''
+			,price_se				= '152150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10011|'
+			,product_size			= '|10|'
+			,product_option			= '|10011:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+
+&lt;iframe width=&#34854&#34 height=&#34480&#34 src=&#34https://www.youtube.com/embed/bevlzmdegzU&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/280.jpg&#34 title=&#34280.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13988'
+	
+
+
+
+2018.05.14 19:25:57(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '10404'
+			,goods_seoson			= '5'
+			,goods_name_front		= '이너티아 25'
+			,goods_name_back		= 'Shadow Black'
+			,goods_name_en			= 'Inertia 25'
+			,goods_color			= 'Shadow Black'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '1'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#191919|'
+			,md_comment				= 'DON&#39T CARRY, WEAR IT
+아웃도어를 제대로 즐기기 위해서는 장비로 인한 불필요한 불편함과 피로감을 최소화하여야 합니다. 다양한 아웃도어 환경에서도 버틸 수 있는 내구성과, 장시간 착용하면서도 에너지 소비를 최소화하기위해서각자에 맞는 최적의 착용감을 제공하는 백팩을 만드는 것. 이것이 바로 Gregory의 브랜드 철학입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '159000'
+			,price_dc				= ''
+			,price_se				= '135150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10007|'
+			,product_size			= '|10|'
+			,product_option			= '|10007:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+
+&lt;iframe width=&#34854&#34 height=&#34480&#34 src=&#34https://www.youtube.com/embed/bevlzmdegzU&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/277.jpg&#34 title=&#34277.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13987'
+	
+
+
+
+2018.05.14 19:26:06(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '1'
+			,goods_seoson			= '5'
+			,goods_name_front		= '이너티아 25'
+			,goods_name_back		= 'Estate Blue'
+			,goods_name_en			= 'Inertia 25'
+			,goods_color			= 'Estate Blue'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#3030F8|'
+			,md_comment				= 'DON&#39T CARRY, WEAR IT
+아웃도어를 제대로 즐기기 위해서는 장비로 인한 불필요한 불편함과 피로감을 최소화하여야 합니다. 다양한 아웃도어 환경에서도 버틸 수 있는 내구성과, 장시간 착용하면서도 에너지 소비를 최소화하기위해서각자에 맞는 최적의 착용감을 제공하는 백팩을 만드는 것. 이것이 바로 Gregory의 브랜드 철학입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '159000'
+			,price_dc				= ''
+			,price_se				= '135150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10012|'
+			,product_size			= '|10|'
+			,product_option			= '|10012:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+
+&lt;iframe width=&#34854&#34 height=&#34480&#34 src=&#34https://www.youtube.com/embed/bevlzmdegzU&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/277.jpg&#34 title=&#34277.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13986'
+	
+
+
+
+2018.05.14 19:26:21(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '이너티아 20'
+			,goods_name_back		= 'Shadow Black'
+			,goods_name_en			= 'Inertia 20'
+			,goods_color			= 'Shadow Black'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#191919|'
+			,md_comment				= 'DON&#39T CARRY, WEAR IT
+아웃도어를 제대로 즐기기 위해서는 장비로 인한 불필요한 불편함과 피로감을 최소화하여야 합니다. 다양한 아웃도어 환경에서도 버틸 수 있는 내구성과, 장시간 착용하면서도 에너지 소비를 최소화하기위해서각자에 맞는 최적의 착용감을 제공하는 백팩을 만드는 것. 이것이 바로 Gregory의 브랜드 철학입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '139000'
+			,price_dc				= ''
+			,price_se				= '118150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10007|'
+			,product_size			= '|10|'
+			,product_option			= '|10007:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+
+&lt;iframe width=&#34854&#34 height=&#34480&#34 src=&#34https://www.youtube.com/embed/bevlzmdegzU&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/274.jpg&#34 title=&#34274.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13985'
+	
+
+
+
+2018.05.14 19:26:30(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '이너티아 20'
+			,goods_name_back		= 'Ferrous Orange'
+			,goods_name_en			= 'Inertia 20'
+			,goods_color			= 'Ferrous Orange'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '1'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#FF9900|'
+			,md_comment				= 'DON&#39T CARRY, WEAR IT
+아웃도어를 제대로 즐기기 위해서는 장비로 인한 불필요한 불편함과 피로감을 최소화하여야 합니다. 다양한 아웃도어 환경에서도 버틸 수 있는 내구성과, 장시간 착용하면서도 에너지 소비를 최소화하기위해서각자에 맞는 최적의 착용감을 제공하는 백팩을 만드는 것. 이것이 바로 Gregory의 브랜드 철학입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '139000'
+			,price_dc				= ''
+			,price_se				= '118150'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10011|'
+			,product_size			= '|10|'
+			,product_option			= '|10011:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;
+
+
+
+
+
+&lt;iframe width=&#34854&#34 height=&#34480&#34 src=&#34https://www.youtube.com/embed/bevlzmdegzU&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/274.jpg&#34 title=&#34274.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13984'
+	
+
+
+
+2018.05.14 19:27:06(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '파포스판'
+			,goods_name_back		= 'NIGHTSHADE GREY'
+			,goods_name_en			= 'Vaporspan Sula 28'
+			,goods_color			= 'NIGHTSHADE GREY'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '3'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#8C8C8C|'
+			,md_comment				= 'DON&#39T CARRY, WEAR IT
+아웃도어를 제대로 즐기기 위해서는 장비로 인한 불필요한 불편함과 피로감을 최소화하여야 합니다. 다양한 아웃도어 환경에서도 버틸 수 있는 내구성과, 장시간 착용하면서도 에너지 소비를 최소화하기위해서각자에 맞는 최적의 착용감을 제공하는 백팩을 만드는 것. 이것이 바로 Gregory의 브랜드 철학입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '210000'
+			,price_dc				= ''
+			,price_se				= '178500'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10021|'
+			,product_size			= '|10|'
+			,product_option			= '|10021:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;iframe width=&#34900&#34 height=&#34480&#34 src=&#34https://www.youtube.com/embed/Q8lKHw_ErcA&#34 framebord&#101r=&#340&#34 allow=&#34autoplay; encrypted-media&#34 allowfullscreen=&#34&#34&gt;&lt;/iframe&gt;
+
+
+
+
+
+&lt;p&gt;&lt;img src=&#34/data/editor/283.jpg&#34 title=&#34283.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13990'
+	
+
+
+
+2018.05.14 19:27:25(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|201|'
+			,product_group			= '104'
+			,goods_seoson			= '5'
+			,goods_name_front		= '스케치 22'
+			,goods_name_back		= '블랙'
+			,goods_name_en			= 'Sketch 22'
+			,goods_color			= '블랙'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10359'
+			,goods_make_date		= ''
+			,goods_country			= '1236'
+			,make_co				= '쌤소나이트'
+			,gender					= '1'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#191919|'
+			,md_comment				= 'DON&#39T CARRY, WEAR IT
+아웃도어를 제대로 즐기기 위해서는 장비로 인한 불필요한 불편함과 피로감을 최소화하여야 합니다. 다양한 아웃도어 환경에서도 버틸 수 있는 내구성과, 장시간 착용하면서도 에너지 소비를 최소화하기위해서각자에 맞는 최적의 착용감을 제공하는 백팩을 만드는 것. 이것이 바로 Gregory의 브랜드 철학입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '149000'
+			,price_dc				= ''
+			,price_se				= '126650'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10007|'
+			,product_size			= '|10|'
+			,product_option			= '|10007:106|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= ''
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;&lt;img src=&#34/data/editor/284.jpg&#34 title=&#34284.jpg&#34&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34/data/editor/285.jpg&#34 title=&#34285.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13991'
+	
+
+
+
+2018.05.14 19:28:59(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|110|'
+			,product_group			= '105'
+			,goods_seoson			= '5'
+			,goods_name_front		= '토린 3.0'
+			,goods_name_back		= '블루/그레이'
+			,goods_name_en			= 'Torin 3.0'
+			,goods_color			= '블루/그레이'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10354'
+			,goods_make_date		= ''
+			,goods_country			= '1232'
+			,make_co				= '케이엘아웃피터'
+			,gender					= '1'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#3030F8|'
+			,md_comment				= '알트라에서 인기 있는 로드슈즈 토린 3.0은 통기성이 개선된 갑피를 적용하여 주행시 편안함을 높여줍니다. 또한 자연스러운 발의 유연성을 위해 발의 뼈 그리고 힘줄을 맵핑한 업데이트된 FootPod™아웃솔을 장착했습니다. 실제 착용시 A-Bound™ Cushioning 과 FootShape™toe box 그리고 Zero Drop platform 의 적절한 조화 여러분은 진짜 편한 신발이 무엇인지를 경험하게 될 것입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '175000'
+			,price_dc				= ''
+			,price_se				= '140000'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10065|'
+			,product_size			= '|9|'
+			,product_option			= '|10065:93||10065:86||10065:87||10065:88||10065:89||10065:90||10065:91||10065:92||10065:94||10065:118||10065:119|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= '238'
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;&nbsp;&lt;/p&gt;&lt;div style=&#34text-align: center;&#34 align=&#34center&#34&gt;&lt;img src=&#34/data/editor/altra-006.jpg&#34 title=&#34altra-006.jpg&#34&gt;&lt;/div&gt;&lt;div style=&#34text-align: center;&#34 align=&#34center&#34&gt;&lt;img src=&#34/data/editor/altra-014.jpg&#34 title=&#34altra-014.jpg&#34&gt;&lt;/div&gt;&lt;div style=&#34text-align: center;&#34&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13843'
+	
+
+
+
+2018.05.14 19:29:18(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|110|'
+			,product_group			= '10510'
+			,goods_seoson			= '5'
+			,goods_name_front		= '토린 3.0'
+			,goods_name_back		= '블랙/레드'
+			,goods_name_en			= 'Torin 3.0'
+			,goods_color			= '블랙/레드'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10354'
+			,goods_make_date		= ''
+			,goods_country			= '1232'
+			,make_co				= '케이엘아웃피터'
+			,gender					= '1'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#191919|'
+			,md_comment				= '알트라에서 인기 있는 로드슈즈 토린 3.0은 통기성이 개선된 갑피를 적용하여 주행시 편안함을 높여줍니다. 또한 자연스러운 발의 유연성을 위해 발의 뼈 그리고 힘줄을 맵핑한 업데이트된 FootPod™아웃솔을 장착했습니다. 실제 착용시 A-Bound™ Cushioning 과 FootShape™toe box 그리고 Zero Drop platform 의 적절한 조화 여러분은 진짜 편한 신발이 무엇인지를 경험하게 될 것입니다.'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '175000'
+			,price_dc				= ''
+			,price_se				= '140000'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10064|'
+			,product_size			= '|9|'
+			,product_option			= '|10064:93||10064:86||10064:87||10064:88||10064:89||10064:90||10064:91||10064:92||10064:94||10064:118||10064:119|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= '238'
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p style=&#34text-align: center;&#34 align=&#34center&#34&gt;&lt;img src=&#34/data/editor/altra-006.jpg&#34 title=&#34altra-006.jpg&#34&gt;&lt;/p&gt;&lt;p&gt;&nbsp;&lt;/p&gt;&lt;div style=&#34text-align: center;&#34 align=&#34center&#34&gt;&lt;img src=&#34/data/editor/altra-008.jpg&#34 title=&#34altra-008.jpg&#34&gt;&lt;/div&gt;&lt;div style=&#34text-align: center;&#34 align=&#34center&#34&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&#34text-align: center;&#34&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '13842'
+	
+
+
+
+2018.05.14 19:58:42(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품수정 : 
+		insert into tbl_goods SET
+			 product_code			= '|10401|'
+			,product_group			= '10506'
+			,goods_code				= '20001'
+			,goods_erp				= ''
+			,goods_seoson			= '2'
+			,goods_name_front		= '프리모'
+			,goods_name_back		= '남성용'
+			,goods_name_en			= 'Primo'
+			,goods_color			= '브라운'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10342'
+			,goods_make_date		= '2018-05-14'
+			,goods_country			= '1231'
+			,make_co				= '캠프라인'
+			,gender					= '1'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#8E562E|'
+			,md_comment				= '프리락시스템을 갖춘 캐쥬얼한 스타일의 다목적 하이킹화'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '218000'
+			,price_dc				= ''
+			,price_se				= '174400'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10024|'
+			,product_size			= '|9|'
+			,product_option			= '|10024:87||10024:88||10024:89||10024:90||10024:91||10024:92||10024:94||10024:93|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= '215'
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,rfile1					= 'Primo M_fps.jpg'
+			,rfile2					= 'Primo M_sd.jpg'
+			,rfile3					= 'Primo M_bps.jpg'
+			,rfile4					= 'Primo M_up.jpg'
+			,rfile5					= 'Primo M_bt.jpg'
+			,rfile6					= ''
+			,ufile1					= '20180514190542.jpg'
+			,ufile2					= '201805141905420.jpg'
+			,ufile3					= '201805141905421.jpg'
+			,ufile4					= '201805141905422.jpg'
+			,ufile5					= '201805141905423.jpg'
+			,ufile6					= ''
+			,content				= '&lt;p&gt;&lt;img src=&#34/data/editor/layout_primo%2BM.jpg&#34 title=&#34layout_primo%2BM.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&lt;img src=&#34/data/editor/gore%2Btex.jpg&#34 title=&#34gore%2Btex.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/ridg%2Bedge.jpg&#34 title=&#34ridg%2Bedge.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/size%2Bguide.JPG&#34 title=&#34size%2Bguide.JPG&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,reg_id					= 'admin'
+			,reg_date				= now()
+	
+
+
+
+2018.05.14 20:01:46(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품수정 : 
+		insert into tbl_goods SET
+			 product_code			= '|10401|'
+			,product_group			= '10506'
+			,goods_code				= '20002'
+			,goods_erp				= ''
+			,goods_seoson			= '1'
+			,goods_name_front		= '프리모'
+			,goods_name_back		= '여성용'
+			,goods_name_en			= 'Primo'
+			,goods_color			= '네이비'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10342'
+			,goods_make_date		= ''
+			,goods_country			= '1231'
+			,make_co				= '캠프라인'
+			,gender					= '2'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#1E2C89|'
+			,md_comment				= ''
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '218000'
+			,price_dc				= ''
+			,price_se				= '174400'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10023|'
+			,product_size			= '|8|'
+			,product_option			= '|10023:81||10023:82||10023:83||10023:84||10023:85|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= '215'
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,rfile1					= 'Primo W_fps.jpg'
+			,rfile2					= 'Primo W_sd.jpg'
+			,rfile3					= 'Primo W_bps.jpg'
+			,rfile4					= 'Primo W_up.jpg'
+			,rfile5					= 'Primo W_bt.jpg'
+			,rfile6					= ''
+			,ufile1					= '20180514200546.jpg'
+			,ufile2					= '201805142005460.jpg'
+			,ufile3					= '201805142005461.jpg'
+			,ufile4					= '201805142005462.jpg'
+			,ufile5					= '201805142005463.jpg'
+			,ufile6					= ''
+			,content				= '&lt;p&gt;&lt;img src=&#34/data/editor/layout_primo%2BW.jpg&#34 title=&#34layout_primo%2BW.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&lt;img src=&#34/data/editor/gore%2Btex.jpg&#34 title=&#34gore%2Btex.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/ridg%2Bedge.jpg&#34 title=&#34ridg%2Bedge.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/size%2Bguide.JPG&#34 title=&#34size%2Bguide.JPG&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,reg_id					= 'admin'
+			,reg_date				= now()
+	
+
+
+
+2018.05.14 20:02:03(1.220.163.133 /AdmMaster/_goods/write_ok.php ) : 
+상품등록 : 
+		update tbl_goods SET
+			 product_code			= '|10401|'
+			,product_group			= '10506'
+			,goods_seoson			= '1'
+			,goods_name_front		= '프리모'
+			,goods_name_back		= '여성용'
+			,goods_name_en			= 'Primo'
+			,goods_color			= '네이비'
+			,goods_erp_name			= ''
+			,goods_keyword			= ''
+			,goods_brand			= '10342'
+			,goods_make_date		= ''
+			,goods_country			= '1231'
+			,make_co				= '캠프라인'
+			,gender					= '2'
+			,reg_type				= ''
+			,parallel				= ''
+			,nocoupon				= ''
+			,goods_icon				= ''
+			,product_dbcolor		= '|#1E2C89|'
+			,md_comment				= '프리락시스템을 갖춘 캐쥬얼한 스타일의 다목적 하이킹화'
+			,item_state				= 'sale'
+			,admin_memo				= ''
+			,price_mk				= '218000'
+			,price_dc				= ''
+			,price_se				= '174400'
+			,item_tax				= '1'
+			,price_fs				= ''
+			,point_more				= ''
+			,item_min_order			= '1'
+			,item_max_order			= '99'
+			,unit_uid				= '개'
+			,dis_date_use			= 'N'
+			,dis_date_s				= ''
+			,dis_date_e				= ''
+			,price_ds				= ''
+			,product_color			= '|10023|'
+			,product_size			= '|8|'
+			,product_option			= '|10023:81||10023:82||10023:83||10023:84||10023:85|'
+			,realsize_dif			= '0'
+			,real_size_code			= ''
+			,item_weight			= '215'
+			,use_month				= '|1||2||3||4||5||6||7||8||9||10||11||12|'
+			,content				= '&lt;p&gt;&lt;img src=&#34/data/editor/layout_primo%2BW.jpg&#34 title=&#34layout_primo%2BW.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,caution				= '&lt;p&gt;&lt;img src=&#34/data/editor/gore%2Btex.jpg&#34 title=&#34gore%2Btex.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/ridg%2Bedge.jpg&#34 title=&#34ridg%2Bedge.jpg&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&lt;img src=&#34/data/editor/size%2Bguide.JPG&#34 title=&#34size%2Bguide.JPG&#34&gt;&lt;br style=&#34clear:both;&#34&gt;&nbsp;&lt;/p&gt;'
+			,mod_date				= now()
+		where g_idx = '14040'
+	
+

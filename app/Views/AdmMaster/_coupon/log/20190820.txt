@@ -1,0 +1,130 @@
+
+
+2019.08.20 20:52:25(222.101.8.239 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E964001QD'
+					, coupon_type	= '13'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '1'
+					, regdate	= now()
+					, enddate	= '2019-09-20'
+		
+
+
+
+2019.08.20 20:52:25(222.101.8.239 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E964002VA'
+					, coupon_type	= '13'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '2'
+					, regdate	= now()
+					, enddate	= '2019-09-20'
+		
+
+
+
+2019.08.20 20:52:25(222.101.8.239 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E964003LA'
+					, coupon_type	= '13'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '3'
+					, regdate	= now()
+					, enddate	= '2019-09-20'
+		
+
+
+
+2019.08.20 20:52:25(222.101.8.239 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E964004ED'
+					, coupon_type	= '13'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '4'
+					, regdate	= now()
+					, enddate	= '2019-09-20'
+		
+
+
+
+2019.08.20 20:52:25(222.101.8.239 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E964005CC'
+					, coupon_type	= '13'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '5'
+					, regdate	= now()
+					, enddate	= '2019-09-20'
+		
+
+
+
+2019.08.20 20:52:25(222.101.8.239 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E964006LD'
+					, coupon_type	= '13'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '6'
+					, regdate	= now()
+					, enddate	= '2019-09-20'
+		
+
+
+
+2019.08.20 20:52:25(222.101.8.239 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E964007KD'
+					, coupon_type	= '13'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '7'
+					, regdate	= now()
+					, enddate	= '2019-09-20'
+		
+
+
+
+2019.08.20 20:52:25(222.101.8.239 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E964008XI'
+					, coupon_type	= '13'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '8'
+					, regdate	= now()
+					, enddate	= '2019-09-20'
+		
+
+
+
+2019.08.20 20:52:25(222.101.8.239 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E964009FJ'
+					, coupon_type	= '13'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '9'
+					, regdate	= now()
+					, enddate	= '2019-09-20'
+		
+
+
+
+2019.08.20 20:52:25(222.101.8.239 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E96400AMZ'
+					, coupon_type	= '13'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '10'
+					, regdate	= now()
+					, enddate	= '2019-09-20'
+		
+

@@ -1,0 +1,11 @@
+
+
+2020.08.06 15:06:52(211.104.11.29 /AdmMaster/_order/invo_update.php ) : 
+[관리자]정보변경 :  update tbl_order
+				set  invo_corp	= '1'
+				   , invoice	= '1111'
+				   , invoice3	= ''
+				   , status		= 'I'
+			  where idx = '19'
+		   
+

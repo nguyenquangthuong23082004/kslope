@@ -1,0 +1,42 @@
+
+
+2018.03.15 15:52:10(218.55.70.22 /item/book_goods.php ) : 
+쿠폰생성 :  insert into tbl_coupon set 
+					  coupon_num	= '2C05B001UW'
+					, coupon_type	= '3'
+					, status		= 'D'
+					, last_idx	= '1'
+					, regdate	= now()
+					, enddate	= '2018-03-26'
+		
+
+
+
+2018.03.15 15:52:10(218.55.70.22 /item/book_goods.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set 
+					  user_id	= ''
+					 ,status	= 'N'
+					where coupon_num = '2C05B001UW'
+		
+
+
+
+2018.03.15 15:52:10(218.55.70.22 /item/book_goods.php ) : 
+쿠폰생성 :  insert into tbl_coupon set 
+					  coupon_num	= '2C05B002OA'
+					, coupon_type	= '4'
+					, status		= 'D'
+					, last_idx	= '2'
+					, regdate	= now()
+					, enddate	= '2018-03-21'
+		
+
+
+
+2018.03.15 15:52:10(218.55.70.22 /item/book_goods.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set 
+					  user_id	= ''
+					 ,status	= 'N'
+					where coupon_num = '2C05B002OA'
+		
+

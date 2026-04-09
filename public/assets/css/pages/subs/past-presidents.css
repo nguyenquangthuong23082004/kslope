@@ -1,0 +1,10 @@
+@media (min-width: 720px) and (max-width: 1207px) {
+    .footer-kssa {
+        padding: 18px;
+        box-sizing: border-box;
+    }
+
+    .chairman-history {
+        padding: 0 18px;
+    }
+}

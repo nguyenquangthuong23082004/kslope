@@ -1,0 +1,21 @@
+
+
+2018.03.12 11:27:56(218.55.70.22 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set 
+					  coupon_num	= '2C058001QY'
+					, coupon_type	= '5'
+					, status		= 'D'
+					, last_idx	= '1'
+					, regdate	= now()
+					, enddate	= '2018-04-12'
+		
+
+
+
+2018.03.12 11:28:09(218.55.70.22 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set 
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2C058001QY'
+		
+

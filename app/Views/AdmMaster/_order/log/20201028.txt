@@ -1,0 +1,8 @@
+
+
+2020.10.28 23:30:38(121.173.42.205 /inicis/mobile/mx_rnext.php ) : 
+주문건 만큼 재고 감소 :  update tbl_goods_option
+								  set goods_cnt = goods_cnt - 1
+								where idx = '5'
+							 
+

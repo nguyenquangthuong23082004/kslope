@@ -1,0 +1,217 @@
+
+
+2019.09.21 13:27:41(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+존재하지 않는 쿠폰 타입니다.
+
+
+
+2019.09.21 13:27:41(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+존재하지 않는 쿠폰 타입니다.
+
+
+
+2019.09.21 13:27:41(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+존재하지 않는 쿠폰 타입니다.
+
+
+
+2019.09.21 14:00:34(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E9C9001AY'
+					, coupon_type	= '15'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '1'
+					, regdate	= now()
+					, enddate	= '2019-10-22'
+		
+
+
+
+2019.09.21 14:00:34(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E9C9002RH'
+					, coupon_type	= '15'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '2'
+					, regdate	= now()
+					, enddate	= '2019-10-22'
+		
+
+
+
+2019.09.21 14:00:34(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E9C9003UC'
+					, coupon_type	= '15'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '3'
+					, regdate	= now()
+					, enddate	= '2019-10-22'
+		
+
+
+
+2019.09.21 14:00:34(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E9C9004DE'
+					, coupon_type	= '15'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '4'
+					, regdate	= now()
+					, enddate	= '2019-10-22'
+		
+
+
+
+2019.09.21 14:00:34(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E9C9005CE'
+					, coupon_type	= '15'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '5'
+					, regdate	= now()
+					, enddate	= '2019-10-22'
+		
+
+
+
+2019.09.21 14:00:49(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E9C9006OI'
+					, coupon_type	= '16'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '6'
+					, regdate	= now()
+					, enddate	= '2019-10-22'
+		
+
+
+
+2019.09.21 14:00:49(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E9C9007ZL'
+					, coupon_type	= '16'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '7'
+					, regdate	= now()
+					, enddate	= '2019-10-22'
+		
+
+
+
+2019.09.21 14:00:49(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E9C9008DI'
+					, coupon_type	= '16'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '8'
+					, regdate	= now()
+					, enddate	= '2019-10-22'
+		
+
+
+
+2019.09.21 14:00:58(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E9C9009EK'
+					, coupon_type	= '13'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '9'
+					, regdate	= now()
+					, enddate	= '2019-10-22'
+		
+
+
+
+2019.09.21 14:00:58(180.224.124.28 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2E9C900ALA'
+					, coupon_type	= '13'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '10'
+					, regdate	= now()
+					, enddate	= '2019-10-22'
+		
+
+
+
+2019.09.21 14:01:13(180.224.124.28 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2E9C900ALA'
+		
+
+
+
+2019.09.21 14:01:21(180.224.124.28 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2E9C9009EK'
+		
+
+
+
+2019.09.21 14:01:27(180.224.124.28 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2E9C9008DI'
+		
+
+
+
+2019.09.21 14:01:34(180.224.124.28 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2E9C9007ZL'
+		
+
+
+
+2019.09.21 14:01:41(180.224.124.28 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2E9C9006OI'
+		
+
+
+
+2019.09.21 14:01:47(180.224.124.28 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2E9C9005CE'
+		
+
+
+
+2019.09.21 14:01:53(180.224.124.28 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2E9C9004DE'
+		
+
+
+
+2019.09.21 14:01:58(180.224.124.28 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2E9C9003UC'
+		
+

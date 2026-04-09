@@ -1,0 +1,24 @@
+
+
+2018.03.03 17:15:35(180.224.124.28 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04F001RY'
+					, coupon_type	= '2'
+					, status		= 'D'
+					, last_idx	= '1'
+					, regdate	= now()
+					, enddate	= '2018-03-10'
+		
+
+
+
+2018.03.03 19:28:01(180.224.124.28 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04F002DU'
+					, coupon_type	= '2'
+					, status		= 'D'
+					, last_idx	= '2'
+					, regdate	= now()
+					, enddate	= '2018-03-10'
+		
+

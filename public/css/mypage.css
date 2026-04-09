@@ -1,0 +1,237 @@
+.free_list .table ul li.manage {
+    /* text-align: center; */
+    padding: 10px 0;
+}
+
+/* mypage_QnA */
+.t-body .manage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.t-body .manage>* {
+    display: inline-block;
+    padding: 10px 15px;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 14px;
+    margin: 0 3px;
+}
+
+.t-body .manage .delete_btn {
+    color: #999999;
+    border: 1px solid #999999;
+    background-color: #ffffff;
+}
+
+.sub_nav2 {
+    margin-top: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sub_nav2 a {
+    display: block;
+    line-height: 48px;
+    text-align: center;
+    width: 240px;
+    height: 48px;
+    border: 1px solid #dbdbdb;
+    color: #757575;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.sub_nav2 a.on {
+    color: #125de6;
+    border: 2px solid #125de6;
+}
+
+[data-nav="review"] .free_list {
+    margin-top: 48px;
+}
+
+[data-nav="myQnA"] .free_list {
+    margin-top: 60px;
+}
+
+
+[data-nav="edit"] .input-right {
+    max-width: 540px;
+}
+
+[data-nav="edit"] .btn_wrap .sub_full_btn {
+    width: 180px;
+margin-top: 20px;
+}
+
+.review_info.mypage .info_right {
+    margin: auto;
+}
+
+.mypage .btn_wrap {
+    padding-top: 0;
+}
+
+.mypage .btn_wrap .delete_btn {
+    background-color: #f9f9f9;
+    border: 1px solid #cccccc;
+}
+
+.mypage .btn_wrap {
+    text-align: center;
+}
+
+
+
+.mypage .filebox {
+    padding-left: 10px;
+}
+
+.mypage .filebox span:last-child {
+    margin-bottom: 0;
+}
+
+/* review wrtie */
+
+
+.mypage[data-nav="review"] .table .manage{
+width: 190px;
+}
+
+
+[data-nav="review"] .write_form .star {
+    position: relative;
+    font-size: 2rem;
+    width: 94px;
+    height: 16px;
+    color: #ddd;
+    background: url(/img/icon/star.png) no-repeat left bottom;
+
+}
+
+[data-nav="review"] .write_form .star input {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    opacity: 0;
+    cursor: pointer;
+}
+
+[data-nav="review"] .write_form .star span {
+    background: url(/img/icon/star.png) no-repeat left top;
+    width: 0;
+    height: 16px;
+    position: absolute;
+    display: inline-block;
+    left: 0;
+    color: red;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+
+.blue {
+    color: #125de6;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+
+/* 회원 탈퇴 팝업 창 */
+.shipping_popup {
+    display: none;
+    position: fixed;
+    top: -20px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    z-index: 999999;
+}
+.shipping_popup>div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 750px;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding-bottom: 20px;
+}
+
+.mypage_user_info .shipping_popup .top{
+    margin-top: -1px;
+    height: 60px;
+    line-height: 2;
+    font-size: 22px;
+    font-weight: 500;
+    color: #fff;
+    background: #125de6;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+}
+.mypage_user_info .shipping_popup h4{
+    margin-bottom: 10px;
+ font-family: "NanumSquare";
+ font-weight: 800;
+}
+.mypage_user_info .shipping_popup .content > p{
+color: #999;
+font-size: 16px;
+}
+.mypage_user_info .shipping_popup .content {
+    background: #fff;
+    padding: 30px 20px 0;
+    line-height: 1.5;
+    box-sizing: border-box;
+}
+.mypage_user_info .shipping_popup .content .reason_box{
+
+    margin-top: 30px;
+}
+.mypage_user_info .shipping_popup a.shipping_popup_close {
+    position: absolute;
+    top: 16px;
+    right: 20px;
+    width: 20px;
+}
+
+.shipping_popup .checkbox{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5px;
+}
+.shipping_popup .checkbox > div{
+    width: 33.3333%;
+    height: 36px;
+    line-height: 36px;
+}
+.table .shipping_popup form textarea {
+    height: 150px;
+    overflow-y: auto;
+}
+
+.sub .shipping_popup .checkbox label {
+    background-size: 20px;
+}
+.shipping_popup .checkbox label{
+    padding-left: 25px;
+    margin-right: 0;
+}
+[data-nav="edit"] .two_col_box{
+   height: auto;
+   max-width: none;
+}
+.two_col_box span{
+    display: block;
+    height: 48px;
+line-height: 48px;
+margin-right: 10px;
+}

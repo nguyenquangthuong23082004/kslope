@@ -1,0 +1,45 @@
+
+
+2018.10.01 15:41:35(39.115.125.45 /AdmMaster/_operator/coupon_write_ok.php ) : 
+존재하지 않는 쿠폰 타입니다 : select * from tbl_coupon_setting where idx='' 
+
+
+
+2018.10.01 15:41:35(39.115.125.45 /AdmMaster/_operator/coupon_write_ok.php ) : 
+존재하지 않는 쿠폰 타입니다 : select * from tbl_coupon_setting where idx='' 
+
+
+
+2018.10.01 15:42:15(39.115.125.45 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2C309001UP'
+					, coupon_type	= '12'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '1'
+					, regdate	= now()
+					, enddate	= '2018-11-01'
+		
+
+
+
+2018.10.01 15:42:15(39.115.125.45 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2C309002SX'
+					, coupon_type	= '12'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '2'
+					, regdate	= now()
+					, enddate	= '2018-11-01'
+		
+
+
+
+2018.10.01 15:42:25(39.115.125.45 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'lifeess33'
+					 ,status	= 'N'
+					where coupon_num = '2C309002SX'
+		
+

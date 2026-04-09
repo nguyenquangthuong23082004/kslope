@@ -1,0 +1,253 @@
+/*상세페이지*/
+
+.s_detail .detail_container .inner {
+    width: calc(100% - 30px);
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.s_detail .detail_top {
+    background: url('../img/sub/detail_topbg.jpg') no-repeat center center/cover;
+    padding: 122px 0 75px;
+    box-sizing: border-box;
+}
+
+.s_detail .detail_top p {
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 22px;
+    color: #fff;
+}
+
+.s_detail_top .txt {
+    float: none;
+    width: 50%;
+}
+
+.s_detail .detail_top .detail_tit {
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #fff;
+}
+
+.s_detail_top .inner {
+    display: flex;
+    justify-content: space-between;
+    padding: 54px 0 113px;
+    box-sizing: border-box;
+}
+
+.s_detail_top .left .s_dtl {
+    font-size: 59px;
+    font-weight: 300;
+    line-height: 1.2;
+    color: #000001;
+    margin-bottom: 30px;
+}
+
+.s_detail_top .left .s_dtl span {
+    font-weight: 700;
+    color: #0da6d8;
+}
+
+.s_detail_top .left .s_dtl span:first-of-type {
+    position: relative;
+}
+
+.s_detail_top .left .s_dtl span:first-of-type::before {
+    content: '';
+    width: 12px;
+    height: 12px;
+    background: #0da6d8;
+    border-radius: 50%;
+    position: absolute;
+    top: -8px;
+    left: 15px;
+}
+
+.s_detail_top .left .s_dtl strong {
+    font-size: 59px;
+    font-weight: 700;
+}
+
+.s_detail_top .left .go_pot {
+    display: block;
+    width: 200px;
+    height: 51px;
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 51px;
+    text-align: center;
+    border-radius: 26px;
+    color: #fff;
+    background: #0da6d8;
+}
+
+.s_detail_top .recommend_user ul {
+    display: flex;
+}
+
+.s_detail_top .recommend_user .recommed_sd_ico {
+    margin-bottom: 27px;
+}
+
+.s_detail_top .recommend_user .recommed_sd_txt {
+    text-align: center;
+}
+
+.s_detail .solution .solution_visual {
+    width: 100%;
+    padding-top: 33.65vw;
+    background: url('../img/sub/detail_visual.png') no-repeat center center/cover;
+    margin-top: -140px;
+    margin-bottom: 72px;
+}
+
+.s_detail_bottom .subject {
+    display: inline-block;
+    font-size: 59px;
+    font-weight: 700;
+    color: #0da6d8;
+    border-bottom: solid 1px #0da6d8;
+}
+
+.s_detail_bottom .s_detail_price {
+    font-size: 36px;
+    font-weight: 700;
+    color: #252525;
+    margin-bottom: 21px;
+    text-align: left;
+    padding: 0;
+}
+
+.s_detail_bottom .s_detail_price::after {
+    display: none;
+}
+
+.s_detail_bottom .s_detail_price_list .txt {
+    padding: 0;
+    min-height: auto;
+}
+
+.s_detail_bottom::before {
+    display: none;
+}
+
+.s_detail_bottom .s_detail_desc {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #252525;
+    text-align: left;
+    margin-bottom: 23px;
+}
+
+
+@media screen and (max-width:1024px) {
+
+    .s_detail_top .inner {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .s_detail_top .txt {
+        width: 100%;
+    }
+
+    .s_detail_top .left .s_dtl {
+        text-align: center;
+    }
+
+    .s_detail_top .txt .recommend_user .slick-dots .slick-active button {
+        background: #0da6d8;
+    }
+
+    .s_detail_top .left .go_pot {
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+
+    .s_detail_top .recommend_user ul {
+        justify-content: space-around;
+    }
+
+    .only_works .solution .solution_visual {
+        margin: 0;
+        padding-top: 50%;
+    }
+
+
+}
+
+@media screen and (max-width:850px) {
+
+
+    .s_detail .detail_top {
+        background: url('../img/sub/detail_topbg_mo.jpg') no-repeat center center/cover;
+        padding: 80px 0 240px;
+        text-align: center;
+    }
+
+    .s_detail_top .inner {
+        padding-bottom: 50px;
+    }
+
+    .s_detail_top .recommend_user>ul {
+        display: block;
+    }
+
+    .detail_top p {
+        font-size: 20px;
+    }
+
+    .detail_top .detail_tit {
+        font-size: 43px;
+    }
+
+    .s_detail_top .left .s_dtl {
+        font-size: 35px;
+    }
+
+    .s_detail_top .left .s_dtl strong {
+        font-size: 35px;
+    }
+
+    .s_detail_top .left .go_pot {
+        width: 150px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 17px;
+        margin-bottom: 25px;
+    }
+
+    .s_detail_bottom .subject {
+        font-size: 32px;
+        margin-bottom: 25px;
+    }
+
+    .s_detail_bottom .s_detail_price_list .txt {
+        padding: 40px 0 20px;
+    }
+
+    .s_detail_bottom .s_detail_price {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .s_detail_bottom .s_detail_desc {
+        text-align: center;
+        font-size: 13px;
+    }
+
+    .s_detail_bottom .s_detail_price_tab li.on button {
+        background: #0da6d8;
+        color: #fff;
+    }
+
+    .s_detail .solution .solution_visual {
+        padding-top: 90%;
+        margin: 0;
+        background: url('../img/sub/detail_visual_mo.png') no-repeat center center/cover;
+    }
+
+}

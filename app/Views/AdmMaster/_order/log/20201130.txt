@@ -1,0 +1,64 @@
+
+
+2020.11.30 14:20:40(183.109.71.153 /inicis/mobile/mx_rnoti.php ) : 
+주문건 만큼 재고 감소 :  update tbl_goods_option
+								  set goods_cnt = goods_cnt - 1
+								where idx = '1'
+							 
+
+
+
+2020.11.30 14:22:09(223.38.11.197 /inicis/mobile/mx_rnext.php ) : 
+주문건 만큼 재고 감소 :  update tbl_goods_option
+								  set goods_cnt = goods_cnt - 1
+								where idx = '5'
+							 
+
+
+
+2020.11.30 14:30:43(39.115.125.45 /inicis/INIpay50/INIStdPaySample/INIStdPayReturn.php ) : 
+주문건 만큼 재고 감소 :  update tbl_goods_option
+												  set goods_cnt = goods_cnt - 1
+												where idx = '5'
+											 
+
+
+
+2020.11.30 14:33:52(39.115.125.45 /inicis/INIpay50/INIStdPaySample/INIStdPayReturn.php ) : 
+주문건 만큼 재고 감소 :  update tbl_goods_option
+												  set goods_cnt = goods_cnt - 1
+												where idx = '5'
+											 
+
+
+
+2020.11.30 14:35:36(39.115.125.45 /inicis/INIpay50/INIStdPaySample/INIStdPayReturn.php ) : 
+주문건 만큼 재고 감소 :  update tbl_goods_option
+												  set goods_cnt = goods_cnt - 1
+												where idx = '5'
+											 
+
+
+
+2020.11.30 19:35:38(115.140.34.9 /inicis/mobile/mx_rnext.php ) : 
+주문건 만큼 재고 감소 :  update tbl_goods_option
+								  set goods_cnt = goods_cnt - 1
+								where idx = '5'
+							 
+
+
+
+2020.11.30 19:38:57(115.140.34.9 /inicis/mobile/mx_rnext.php ) : 
+주문건 만큼 재고 감소 :  update tbl_goods_option
+								  set goods_cnt = goods_cnt - 1
+								where idx = '5'
+							 
+
+
+
+2020.11.30 19:41:39(115.140.34.9 /inicis/mobile/mx_rnext.php ) : 
+주문건 만큼 재고 감소 :  update tbl_goods_option
+								  set goods_cnt = goods_cnt - 1
+								where idx = '7'
+							 
+

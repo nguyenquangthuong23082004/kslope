@@ -1,0 +1,16 @@
+
+#header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+#header a,
+.count_box * {
+    color: #fff;
+    font-weight: 500;
+}
+
+#header .logo a {
+    background-image: url(/img/logo.png);
+}

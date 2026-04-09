@@ -1,0 +1,105 @@
+
+/* sub button style */
+[class*="btn_wrap"] {
+    padding-top: 20px;
+}
+
+.btn_wrap {
+    text-align: right;
+}
+
+.two_btn_wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.two_btn_wrap li {
+    margin: 5px;
+}
+.btn_wrap > *,
+.two_btn_wrap li>* {
+    font-size: 18px;
+    display: inline-block;
+    width: 140px;
+    height: 48px;
+    line-height: 48px;
+    text-align: center;
+    border-radius: 6px;
+}
+
+.sub_full_btn {
+    color: #fff;
+    background-color: #125de6;
+}
+
+.delete_btn {
+    color: #454545;
+    border: 1px solid #bbbbbb;
+    background-color: #ffffff;
+}
+
+.sub_line_btn {
+    color: #125de6;
+    border: 1px solid #125de6;
+    background-color: #ffffff;
+}
+
+
+/* 추가수정건----------------- */
+
+.call .btn_wrap,
+.application .btn_wrap {
+    text-align: center;
+    padding: 40px 0 0;
+}
+.call .btn_wrap a,
+.application .btn_wrap a{
+    width: 400px;
+    height: 60px;
+    line-height: 60px;
+}
+
+/* input */
+input[type="radio"],
+input[type="checkbox"],
+.input_checkbox{
+    display: none;
+}
+
+.checkbox label {
+    position: relative;
+    font-weight: 400;
+    padding-left: 30px;
+    vertical-align: middle;
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-color: #fff;
+    background-image: url('../img/btn/checkbox.png');
+}
+.checkbox input:checked+label{
+    background-image: url('/img/btn/checked.png');
+    color: #125de6;
+}
+
+textarea::placeholder ,
+input::placeholder {
+    color: #bbbbbb
+}
+.shipping_popup .checkbox label,
+.radiobox label {
+    position: relative;
+    font-weight: 400;
+    padding-left: 30px;
+    vertical-align: middle;
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-color: #fff;
+    background-image: url('../img/btn/checkbox_off.png');
+    margin-right: 40px;
+}
+
+.shipping_popup .checkbox input:checked+label,
+.radiobox input:checked+label{
+    background-image: url('/img/btn/checkbox_blue.png');
+}

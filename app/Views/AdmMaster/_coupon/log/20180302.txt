@@ -1,0 +1,276 @@
+
+
+2018.03.02 17:18:00(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E001DS'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '1'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 17:18:57(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E001RX'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '1'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 17:19:05(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E002SZ'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '2'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 17:20:51(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E003TS'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '3'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 17:20:57(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E003TS'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '3'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 17:21:41(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E003UT'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '3'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 17:22:00(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E003VU'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '3'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 17:23:00(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E003WV'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '3'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 17:23:48(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E004TT'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '4'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 17:24:07(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E005TU'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '5'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 17:24:44(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E001PV'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '1'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 17:29:09(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E001VS'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '1'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 17:29:10(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E002ZX'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '2'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 17:29:10(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E003NV'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '3'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 17:29:11(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E004BT'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '4'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 17:29:11(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E005BU'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '5'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 17:29:12(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E006BV'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '6'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 17:29:12(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E007BW'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '7'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 17:29:13(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E008BX'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '8'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 17:30:30(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E009TY'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '9'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 17:30:43(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E00ABQ'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '10'
+					, regdate	= now()
+					, enddate	= '2018-12-24'
+		
+
+
+
+2018.03.02 18:26:56(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E00BFV'
+					, coupon_type	= '1'
+					, status		= 'D'
+					, last_idx	= '11'
+					, regdate	= now()
+					, enddate	= '2018-03-15'
+		
+
+
+
+2018.03.02 18:27:34(218.55.70.22 /AdmMaster/_coupon/test.php ) : 
+쿠폰발급 :  insert into tbl_coupon set 
+					  coupon_num	= '2C04E00CRZ'
+					, coupon_type	= '2'
+					, status		= 'D'
+					, last_idx	= '12'
+					, regdate	= now()
+					, enddate	= '2018-03-09'
+		
+

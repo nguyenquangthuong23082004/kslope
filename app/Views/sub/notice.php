@@ -1,0 +1,158 @@
+<?php $this->extend('inc/layout_index'); ?>
+<?php $this->section('content'); ?>
+<main id="container" class="main main_new">
+    <section class="ci-intro">
+
+        <div class="ci-bc">
+            <a href="#" class="ci-bc__item">HOME</a>
+            <a href="#" class="ci-bc__item">알림마당</a>
+
+            <a href="#" class="ci-bc__item ci-bc__item--select">
+                공지사항
+                <img class="ci-bc__ico" src="/assets/img/sub/ico_select_down.png" alt="">
+            </a>
+        </div>
+
+        <h1 class="ci-title">공지사항</h1>
+
+        <nav class="ci-tab">
+            <a href="/notice" class="is-active">공지사항</a>
+            <a href="/recruitment_infor">채용정보</a>
+            <a href="/promotion">홍보자료</a>
+            <a href="/competition">입찰/공모</a>
+            <a href="/association_journal">협회지</a>
+        </nav>
+
+        <div class="ci-visual">
+            <img src="/assets/img/sub/ci_visual_notice.png" alt="">
+            <div class="ci-visual-text">
+
+                <p class="text-en">Announcements</p>
+                <p class="text-en-small">Korea Slope Safety Association</p>
+            </div>
+        </div>
+        <div class="ci-subtab pc-only1">
+            <?php foreach ($categories as $key => $category): ?>
+                <a href="/notice?category_no=<?= $category['code_no'] ?>"
+                    class="ci-subtab__item <?= $category['code_no'] == $category_no ? 'is-active' : '' ?>"><?= $category['code_name'] ?></a>
+            <?php endforeach; ?>
+        </div>
+        <div class="custom-select mo-only">
+            <div class="select-selected">
+                협회 공지
+            </div>
+            <ul class="select-options">
+                <?php foreach ($categories as $key => $category): ?>
+                    <li data-value="/notice?category_no=<?= $category['code_no'] ?>"
+                        class="<?= $category['code_no'] == $category_no ? 'is-active' : '' ?>">
+                        <?= $category['code_name'] ?>
+                    </li>
+                <?php endforeach; ?>
+            </ul>
+        </div>
+
+    </section>
+
+
+    <section class="job-list-wrap">
+        <?php echo view("/sub/inc/top-search.php"); ?>
+
+        <!-- table -->
+        <div class="job-table-wrap">
+            <table class="job-table">
+                <thead>
+                    <tr>
+                        <th class="col-no">번호</th>
+                        <th class="col-title">제목</th>
+                        <th class="col-writer">작성자</th>
+                        <th class="col-view">조회</th>
+                        <th class="col-date">작성일</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <?php if (empty($items)): ?>
+                        <tr>
+                            <td colspan="5">검색된 결과가 없습니다.</td>
+                        </tr>
+                    <?php else: ?>
+                        <?php
+                        $startNum = $total - (($page_order - 1) * $perPage);
+                        ?>
+                        <?php foreach ($items as $key => $item): ?>
+                            <tr class="pc-only2">
+                                <td><?= $startNum - $key ?></td>
+                                <td class="title">
+                                    <a href="/notice_detail?idx=<?= $item['bbs_idx'] ?>"><?= $item['subject'] ?></a>
+                                </td>
+                                <td><?= $item['writer'] ?></td>
+                                <td><?= number_format($item['hit']) ?></td>
+                                <td><?= date('Y.m.d', strtotime($item['r_date'])) ?></td>
+                            </tr>
+
+                            <tr class="job-item mo-only">
+                                <td class="title">
+                                    <a href="/notice_detail?idx=<?= $item['bbs_idx'] ?>">
+                                        <?= $item['subject'] ?>
+                                    </a>
+
+                                    <div class="meta">
+                                        <span>번호:</span>
+                                        <?= $startNum - $key ?> |
+                                        <span>조회:</span>
+                                        <?= number_format($item['hit']) ?> |
+                                        <span>작성일:</span>
+                                        <?= date('Y.m.d', strtotime($item['r_date'])) ?>
+                                    </div>
+                                </td>
+                            </tr>
+                        <?php endforeach; ?>
+                    <?php endif; ?>
+                </tbody>
+            </table>
+        </div>
+
+        <?= $pager->links('order', 'custom_pagination') ?>
+
+    </section>
+
+
+</main>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+
+        const select = document.querySelector(".custom-select");
+        const selected = select.querySelector(".select-selected");
+        const options = select.querySelectorAll(".select-options li");
+
+        const currentUrl = window.location.pathname + window.location.search;
+
+        options.forEach(option => {
+            if (option.dataset.value === currentUrl) {
+                option.classList.add("active");
+                selected.textContent = option.textContent;
+            }
+        });
+
+        selected.addEventListener("click", function () {
+            select.classList.toggle("active");
+        });
+
+        options.forEach(option => {
+            option.addEventListener("click", function () {
+
+                selected.textContent = this.textContent;
+
+                window.location.href = this.dataset.value;
+            });
+        });
+
+        document.addEventListener("click", function (e) {
+            if (!select.contains(e.target)) {
+                select.classList.remove("active");
+            }
+        });
+
+    });
+</script>
+
+<?php $this->endSection(); ?>

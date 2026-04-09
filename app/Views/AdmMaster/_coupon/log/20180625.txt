@@ -1,0 +1,44 @@
+
+
+2018.06.25 15:36:15(211.203.179.46 /member/member_reg_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C191001FD'
+						, coupon_type	= ''
+						, types			= 'M'
+						, status		= 'D'
+						, last_idx		= '1'
+						, regdate		= now()
+						, enddate		= '2018-07-26'
+			
+
+
+
+2018.06.25 15:36:15(211.203.179.46 /member/member_reg_ok.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2C191001FD'
+		
+
+
+
+2018.06.25 16:59:41(211.203.179.46 /member/member_reg_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C191002SI'
+						, coupon_type	= ''
+						, types			= 'M'
+						, status		= 'D'
+						, last_idx		= '2'
+						, regdate		= now()
+						, enddate		= '2018-07-26'
+			
+
+
+
+2018.06.25 16:59:41(211.203.179.46 /member/member_reg_ok.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a2'
+					 ,status	= 'N'
+					where coupon_num = '2C191002SI'
+		
+

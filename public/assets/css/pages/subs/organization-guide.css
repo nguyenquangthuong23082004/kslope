@@ -1,0 +1,177 @@
+@media (max-width: 1024px) { 
+    .org-inner {
+        gap: 55px;
+    }
+}
+
+@media (max-width: 768px) { 
+    .org-map {
+        min-height: 20.6154rem;
+    }
+
+    .org-title h2 {
+        text-align: center;
+    }
+}
+
+@media (max-width: 710px) { 
+    .org-map {
+        min-height: 20.6154rem;
+    }
+}
+
+
+@media (max-width: 689px) { 
+    .bottom-left, .bottom-right {
+        bottom: -1rem;
+    }
+}
+
+@media (max-width: 652px) { 
+    .bottom-left, .bottom-right {
+        bottom: -2rem;
+    }
+}
+
+
+@media (max-width: 630px) { 
+    .bottom-left, .bottom-right {
+        bottom: -4rem;
+    }
+}
+
+@media (max-width: 575px) { 
+    .bottom-left, .bottom-right {
+        bottom: -5rem;
+    }
+
+    .left {
+        left: -3.0769rem;
+    }
+
+    .right {
+        right: -3.0769rem;
+    }
+}
+
+@media (max-width: 550px) { 
+    .bottom-left, .bottom-right {
+        bottom: -6rem;
+    }
+}
+
+@media (max-width: 530px) { 
+    .bottom-left, .bottom-right {
+        bottom: -7rem;
+    }
+}
+
+@media (max-width: 520px) { 
+    .bottom-left, .bottom-right {
+        bottom: -8rem;
+    }
+}
+
+@media (max-width: 490px) { 
+    .bottom-left, .bottom-right {
+        bottom: -9rem;
+    }
+}
+
+@media (max-width: 480px) { 
+    .org-line-combo {
+        top: -50px;
+        left: 50%;
+        width: 234px;
+        height: 403px;
+    }
+
+    .navy {
+        top: 67px;
+    }
+
+    .blue {
+        top: 116px;
+    }
+
+    .right {
+        top: 183px;
+        right: -26px;
+    }
+
+    .left {
+        top: 183px;
+        left: -26px;
+    }
+
+    .bottom-left, .bottom-right {
+        bottom: 2.5rem;
+    }
+
+    .org-chart {
+        padding-bottom: 3rem;
+    }
+}
+
+@media (max-width: 464px) { 
+    .bottom-left, .bottom-right {
+        bottom: 1.5rem;
+    }
+}
+
+@media (max-width: 430px) { 
+    .bottom-left, .bottom-right {
+        bottom: 0.7rem;
+    }
+}
+
+@media (max-width: 405px) { 
+    .bottom-left, .bottom-right {
+        bottom: -0.1rem;
+    }
+}
+
+@media (max-width: 385px) { 
+    .bottom-left, .bottom-right {
+        bottom: -1.1rem;
+    }
+}
+
+@media (max-width: 385px) { 
+    .bottom-left, .bottom-right {
+        bottom: -2.1rem;
+    }
+}
+
+@media (max-width: 360px) { 
+    .org-line-combo {
+        top: -109px;
+        width: 151px;
+    }
+
+    .navy {
+        top: 30px;
+    }
+
+    .blue {
+        top: 63px;
+    }
+
+        .left {
+        top: 111px;
+        left: -26px;
+    }
+
+        .right {
+        top: 111px;
+        right: -26px;
+    }
+
+    .bottom-left, .bottom-right {
+                bottom: 5.5rem;
+    }
+
+}
+
+
+

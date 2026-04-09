@@ -1,0 +1,158 @@
+.ci-story {
+    position: relative;
+}
+
+.ci-deco--right {
+    right: 0px;
+    top: 153px;
+    max-width: 392px;
+    z-index: 0;
+}
+
+.ci-title-sub {
+    width: fit-content;
+    height: fit-content;
+}
+
+.ci-title-sub.dif::after {
+    all: unset;
+}
+
+.ci-title-sub::after {
+    all: unset;
+}
+
+.ci-title-sub.dif::after {
+    content: "";
+    position: absolute;
+    left: -4px;
+    bottom: 4px;
+    width: calc(100% + 8px);
+    height: 0.5769rem;
+    background: #a3e1f1;
+    border-radius: 6px;
+    z-index: -1;
+}
+
+.ci-title-sub::after {
+    content: "";
+    position: absolute;
+    left: -4px;
+    bottom: 4px;
+    width: calc(100% + 8px);
+    height: 0.5769rem;
+    background: #a3e1f1;
+    border-radius: 6px;
+    z-index: -1;
+}
+
+@media (max-width: 1281px) {
+    .ci-deco--right {
+        max-width: 327px; 
+    }
+
+    .ci-color {
+        width: auto;
+        flex: 1 1 auto;
+        min-width: 0;
+    }
+}
+
+@media (max-width: 1216px) {
+    .ci-visual-sub.pc-only img:nth-child(2) {
+       min-width: 0;
+    }
+}
+
+@media (max-width: 1140px) {
+    
+    .ci-title-sub.dif::after {
+        height: 0.3769rem;
+    }
+
+    .ci-title-sub::after {
+        height: 0.3769rem;
+    }
+    
+}
+
+@media (max-width: 1010px) {
+    
+    .ci-deco--right {
+        top: 214px;
+    }
+    
+}
+
+@media (max-width: 720px) {
+
+    .ci-head {
+        margin-left: 0;
+    }
+
+    .mo-only {
+        display: flex;
+        flex-direction: column;
+        gap: 1.5385rem;
+        align-items: center;
+    }
+
+    .ci-deco--right {
+        display: block;
+    }
+
+    .ci-deco--right {
+        top: 30.8846rem;
+        left: 13.6538rem;
+        width: 12.9615rem;
+    }
+}
+
+@media (max-width: 612px) {
+    .ci-deco--right {
+        top: 34.8846rem;
+    }
+}
+
+@media (max-width: 545px) {
+    .ci-visual-sub img {
+        max-width: 90%;
+    }
+}
+
+@media (max-width: 480px) {
+    .ci-visual-sub {
+        height: 14.6538rem;
+    }
+
+    .ci-deco--right {
+        top: 19.8846rem;
+    }
+}
+
+@media (max-width: 420px) {
+
+    .ci-deco--right {
+        top: 20.8846rem;
+    }
+
+    .ci-head > .mo-only > .ci-visual-sub:nth-child(1) img {
+        max-width: 51%;
+    }
+}
+
+
+@media (max-width: 360px) {
+
+    .ci-title-sub.dif::after {
+        height: 0.2769rem;
+    }
+
+    .ci-title-sub::after {
+        height: 0.2769rem;
+    }
+
+    .ci-deco--right {
+        top: 13.8846rem;
+    }
+}

@@ -1,0 +1,181 @@
+<div class="listBottom">
+  <div class="">
+    <? if ($isCategory == "Y") { ?>
+        <select name="category" class="input_select">
+          <option value="">선택</option>
+        <?
+        $fsql    = " select * from tbl_bbs_category where code='$code' order by onum desc";
+        $fresult = mysqli_query($connect, $fsql) or die (mysqli_error($connect));
+        while($frow=mysqli_fetch_array($fresult)){
+        ?>
+          <option value="<?=$frow["tbc_idx"]?>" <? if ($frow["tbc_idx"] == $category) {echo "selected"; } ?>><?=$frow["subject"]?></option>
+        <?
+        }
+        ?>
+        </select>
+    <? } ?>
+  </div>
+  <script type="text/javascript">
+    $(function(){
+      $("select[name='category']").change(function(){
+        var cate =$(this).val();
+        location.href="?code=<?=$code?>&scategory="+cate;
+      });
+    });
+  </script>
+  <form name=lfrm id=lfrm>
+  <table cellpadding="0" cellspacing="0" summary="" class="listTable schedule">
+  <caption></caption>
+  <colgroup>
+  <col width="5%" />
+  <col width="5%" />
+  <? if ($isCategory == "Y") { ?>
+  <col width="5%" />
+  <? } ?>
+  <col width="*" />
+  <? if ($skin != "faq") {?>
+  <col width="10%" />
+  <col width="8%" />
+  <col width="200px" />
+  <col width="12%" />
+  <col width="7%" />
+  <? } ?>
+  <col width="7%" />
+  </colgroup>
+  <thead>
+    <tr>
+      <th>선택</th>
+      <th>번호</th>
+      <? if ($isCategory == "Y") { ?>
+      <th>구분</th>
+      <? } ?>
+      <th>제목</th>
+       <? if ($skin != "faq") {?>
+      <th>작성자</th>
+      <th>첨부파일</th>
+      <th>상태</th>
+      <th>작성일</th>
+      <th>조회</th>
+      <? } ?>
+      <th>관리</th>
+    </tr>
+  </thead>
+  <tbody>
+    <?
+    $nPage = ceil($nTotalCount / $g_list_rows);
+    if ($pg == "") $pg = 1;
+    $nFrom = ($pg - 1) * $g_list_rows;
+
+    $sql    = $total_sql . " order by $orderStr notice_yn desc,  b_ref desc, b_step asc limit $nFrom, $g_list_rows ";
+    $result = mysqli_query($connect, $sql) or die (mysql_error());
+    $num = $nTotalCount - $nFrom;
+    while($row=mysqli_fetch_array($result)){
+
+      if ($row[notice_yn] == "Y") {
+        $nums = "Notice";
+      } else {
+        $nums = $num;
+      }
+      $newStr = "";
+      if (listNew(24, $row[r_date]) ==0) {
+        $newStr = "<img src=\"/img_board/new.gif\" style=\"margin:1px 3px 0 5px;\" alt=\"신규게시물\" />";
+      }
+
+      $recStr = "";
+      if ($row[recomm_yn] == "Y") {
+        $recStr = "<font color=red>[추천]</font>";
+      }
+      $file_chk = "N";
+      for ($i=1;$i<=5;$i++) {
+        if ($row["rfile".$i]) {
+          $file_chk = "Y";
+        }
+      }
+      $rstr = "";
+      for ($i=1;$i<=$row[b_level];$i++) {
+        $rstr = $rstr."&nbsp;&nbsp;";
+      }
+      if ($row[b_level] > 0) {
+        $rstr = $rstr."ㄴ";
+      }
+      $c_cnt = "";
+      if ($row[comment_cnt] > 0) {
+        $c_cnt = "(".$row[comment_cnt].")";
+      }
+      $secureStr = "";
+      if ($row[secure_yn] == "Y") {
+        $secureStr = "<img src='/img_board/icon_key.gif'>";
+      }
+    ?>
+    <tr style="height:40px">
+      <td><input type="checkbox" id="" name="bbs_idx[]" value="<?=$row[bbs_idx]?>" class="bbs_idx input_check" /></td>
+      <td><?=$nums?></td>
+      <? if ($isCategory == "Y") { ?>
+      <td><?=$row[category]?></td>
+      <? } ?>
+      <td class="tal bold txt_black"><?=$rstr?><a href="board_view.php?scategory=<?=$scategory?>&search_mode=<?=$search_mode?>&search_word=<?=$search_word?>&code=<?=$code?>&bbs_idx=<?=$row[bbs_idx]?>&pg=<?=$pg?>">
+          <?=$recStr?> <?=$row[subject]?> <?=$secureStr?>
+          <?=$c_cnt?>
+          </a>
+      </td>
+      <? if ($skin != "faq") {?>
+      <td class="bold"><?=$row[writer]?></td>
+      <td>
+        <? if ($file_chk == "Y") { ?>
+        <img src="/AdmMaster/_images/content/icon_file.png" alt="파일" />
+        <? } ?>
+      </td>
+      <td class="tac">
+        <select name="status" onchange="chg_it('<?=$row['bbs_idx']?>',this.value)">
+          <option value="1" <?if($row['status']=="1")echo"selected";?> >접수 완료</option>
+          <option value="2" <?if($row['status']=="2")echo"selected";?> >처리중</option>
+          <option value="3" <?if($row['status']=="3")echo"selected";?> >답변완료</option>
+        </select>
+      </td>
+      <td><?=$row[r_date]?></td>
+      <td><?=$row[hit]?></td>
+      <? } ?>
+      <td>
+        <a href="board_write.php?scategory=<?=$scategory?>&search_mode=<?=$search_mode?>&search_word=<?=$search_word?>&code=<?=$code?>&bbs_idx=<?=$row[bbs_idx]?>&pg=<?=$pg?>"><img src="/AdmMaster/_images/common/ico_setting2.png" alt="설정" /></a> &nbsp;
+        <a href="javascript:del_chk('<?=$row[bbs_idx]?>')"><img src="/AdmMaster/_images/common/ico_error.png" alt="에러" /></a>
+      </td>
+    </tr>
+    <?
+    $num = $num - 1;
+      }
+    ?>
+  </tbody>
+  </table>
+  </form>
+</div><!-- // listBottom -->
+<script type="text/javascript">
+function chg_it(idx, vals){
+    $("#ajax_loader").removeClass("display-none");
+        $.ajax({
+      url: "chg_stat.php",
+      type: "POST",
+      data: "idx="+idx+"&vals="+vals,
+      error : function(request, status, error) {
+       //통신 에러 발생시 처리
+        alert_("code : " + request.status + "\r\nmessage : " + request.reponseText);
+        $("#ajax_loader").addClass("display-none");
+      }
+      ,complete: function(request, status, error) {
+//				$("#ajax_loader").addClass("display-none");
+      }
+      , success : function(response, status, request) {
+        console.log("stata:"+response);
+        if (response == "OK")
+        {
+          alert_("정상적으로 변경되었습니다.");
+          //location.reload();
+          return;
+        } else {
+          alert(response);
+          alert_("오류가 발생하였습니다!!");
+          return;
+        }
+      }
+    });
+}
+</script>

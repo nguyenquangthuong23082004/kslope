@@ -1,0 +1,149 @@
+<?php
+
+namespace App\Controllers\AdmMaster;
+
+use App\Controllers\BaseController;
+use CodeIgniter\Database\Config;
+use Exception;
+
+class AutoMailController extends BaseController
+{
+    protected $model;
+
+    public function __construct()
+    {
+        $this->connect = Config::connect();
+        $this->model = model('App\Models\AutoMailModel');
+        // helper('content');
+    }
+    public function index()
+    {
+        $g_list_rows = 40;
+        $pg = $this->request->getGet('pg') ?? 1;
+        $nFrom = ($pg - 1) * $g_list_rows;
+
+        $total_count = $this->model->getTotalCount();
+        $nPage = ceil($total_count / $g_list_rows);
+
+        $emails = $this->model->getEmails($nFrom, $g_list_rows);
+
+        $data = [
+            'emails' => $emails,
+            'total_count' => $total_count,
+            'pg' => $pg,
+            'nPage' => $nPage,
+            'g_list_rows' => $g_list_rows,
+        ];
+
+        return view('AdmMaster/_member/auto_mail_list', $data);
+    }
+    public function email_view()
+    {
+        $idx = $this->request->getGet('idx');
+        $email = $this->model->find($idx);
+        return view('AdmMaster/_member/email_view', ['email' => $email]);
+    }
+    public function email_mod_ok()
+    {
+        $idx        = $this->request->getPost("idx");
+        $title      = $this->request->getPost("title");
+        $code       = $this->request->getPost("code");
+        $autosend   = $this->request->getPost("autosend");
+        $send_name  = $this->request->getPost("send_name");
+        $send_email = $this->request->getPost("send_email");
+        $mail_title = $this->request->getPost("mail_title");
+        $content    = $this->request->getPost("content");
+
+        $data = [
+            'title' => $title,
+            'code' => $code,
+            'autosend' => $autosend,
+            'send_name' => $send_name,
+            'send_email' => $send_email,
+            'mail_title' => $mail_title,
+            'content' => $content,
+            'display' => 'Y'
+        ];
+
+        if ($idx) {
+            $this->model->update($idx, $data);
+            return $this->response->setBody('<script>alert("수정되었습니다."); window.parent.location.href = "/AdmMaster/_members/email";</script>');
+        } else {
+            $row = $this->model->where('code', $code)->first();
+
+            if (!empty($row)) {
+                return $this->response->setBody('<script>alert("코드가 중복된 코드입니다.");</script>');
+            }
+            $this->model->insert($data);
+            return $this->response->setBody('<script>alert("등록되었습니다."); window.parent.location.href = "/AdmMaster/_members/email";</script>');
+        }
+    }
+
+    public function email_delete()
+    {
+        try {
+            $idx = $this->request->getPost("idx") ?? [];
+            if (!$idx) {
+                return $this->response->setJSON([
+                    'result' => false,
+                    'message' => 'idx가 존재하지 않습니다'
+                ], 400);
+            }
+
+            for ($i = 0; $i < count($idx); $i++) {
+                $this->model->delete($idx[$i]);
+            }
+
+            $message = "삭제 성공.";
+            return $this->response->setJSON([
+                'result' => true,
+                'message' => $message
+            ], 200);
+        } catch (Exception $e) {
+            return $this->response->setJSON([
+                'result' => false,
+                'message' => $e->getMessage()
+            ], 400);
+        }
+    }
+
+    public function email_change()
+    {
+        try {
+            $idx = $this->request->getPost('idx') ?? [];
+            $onum = $this->request->getPost('onum') ?? [];
+
+            $tot = count($idx);
+            for ($j = 0; $j < $tot; $j++) {
+                $this->model->update($idx[$j], ['onum' => $onum[$j]]);
+            }
+
+            return $this->response
+                ->setStatusCode(200)
+                ->setJSON(
+                    [
+                        'result' => true,
+                        'message' => '수정 했습니다.'
+                    ]
+                );
+        } catch (\Exception $e) {
+            return $this->response->setJSON([
+                'result' => false,
+                'message' => $e->getMessage()
+            ], 400);
+        }
+    }
+
+        public function pre_viw_mail()
+    {
+        $idx = $_GET["idx"] ?? '';
+
+        $total_sql = " select *
+	                 from tbl_auto_mail_skin
+					where idx = '" . $idx . "'  ";
+        $result = $this->connect->query($total_sql);
+        $row = $result->getRowArray();
+
+        return viewSQ($row["content"]);
+    }
+}

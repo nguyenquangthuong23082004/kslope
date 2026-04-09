@@ -1,0 +1,44 @@
+/* .ui-datepicker-calendar tbody td a.ui-state-active{
+    background-color: #114484 !important;
+    color: white !important;
+}
+
+.ui-datepicker-calendar tbody td a:hover {
+    background-color: #fff !important;
+    border: 1px solid #4880ac !important;
+}
+.ui-datepicker-calendar tbody td a.ui-state-active:hover{
+    color: #114484 !important;
+} */
+
+.highlight a {
+    position: relative;
+}
+
+.highlight a::after {
+    content: '';
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    transform: translateX(-50%);
+    width: 8px;
+    height: 8px;
+    background: #114484;
+    border-radius: 50%;
+}
+.ui-datepicker-calendar tbody td a{
+    padding: 1.5px;
+}
+.coursePopup{
+    position: absolute; background: white; padding: 10px 15px; border: 1px solid rgb(51, 51, 51); border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 8px; z-index: 9999; min-width: 200px; top: 2187px; left: 530.625px;
+
+}
+#closePopupBtn{
+    position:absolute;top:5px;right:8px;background:none;border:none;font-size:16px;cursor:pointer;
+}
+.coursePopup ul{
+    margin:0 0 5px;font-size:14px;line-height:1.5;
+}
+.coursePopup h4{
+    margin:0 0 5px;font-size:18px;
+}

@@ -1,0 +1,291 @@
+.kssa-header {
+  /* width: 100%;
+  background: #fff; */
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+
+  background: transparent;
+}
+
+.kssa-wrap {
+  /* max-width: 1920px;
+  margin: 0 auto;
+  border-bottom: 1px solid #e5e5e5; */
+  max-width: 1920px;
+  margin: 0 auto;
+
+  background: transparent;
+  border-bottom: none;
+}
+
+.kssa-top {
+  max-width: 1200px;
+  margin: 0 auto;
+  height: 88px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.kssa-logo {
+  display: flex;
+  align-items: center;
+}
+.kssa-logo img {
+  /* height: 51px; */
+  /* width: auto; */
+  width: 289px;
+  display: block;
+}
+
+.kssa-auth {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 16px;
+  letter-spacing: -1px;
+  line-height: 1.4;
+  text-transform: uppercase;
+  color: #252525;
+  font-family: "NotoSansKR";
+  white-space: nowrap;
+}
+.kssa-auth .sep {
+  color: #bbb;
+}
+.mypage-link {
+  margin-left: 12px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.mypage-link img {
+  height: 25px;
+  width: auto;
+  display: block;
+}
+.mypage-txt {
+  font-size: 16px;
+}
+
+.kssa-bottom {
+  max-width: 1200px;
+  margin: 0 auto;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.kssa-gnb {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.btn-hamburger {
+  border: 0;
+  background: transparent;
+  padding: 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.btn-hamburger img {
+  height: 21px;
+  width: auto;
+  display: block;
+}
+
+.kssa-menu {
+  display: flex;
+  align-items: center;
+  gap: 70px;
+}
+.kssa-menu a {
+  font-size: 19px;
+  letter-spacing: -1px;
+  line-height: 1.4;
+  /* color: #252525; */
+  color: #ffffff;
+  font-weight: 600;
+  font-family: "SUIT";
+}
+
+.btn-search {
+  width: 43px;
+  height: 43px;
+  border: 0;
+  background: #1677ff;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.btn-search img {
+  height: 24px;
+  width: auto;
+  display: block;
+}
+.kssa-mobile-icons {
+  display: none;
+}
+.kssa-auth a {
+    color: #ffffff;
+}
+/* 
+.kssa-divider {
+  width: 100%;
+  height: 1px;
+  background: #e5e5e5;
+} */
+@media screen and (max-width: 850px) {
+  html {
+    font-size: 3.6111vw;
+  }
+  .kssa-wrap {
+    padding: 0 0.7692rem;
+    border-bottom: 0.0385rem solid #e5e5e5;
+  }
+  .kssa-top {
+    height: 4.6154rem;
+  }
+
+  .kssa-logo img {
+    /* height: 2.3846rem; */
+    width: 12.4231rem;
+    height: 2.3846rem;
+  }
+  .kssa-auth {
+    display: none;
+  }
+  .kssa-bottom {
+    display: none;
+  }
+
+  .kssa-gnb {
+    gap: 0;
+  }
+
+  .btn-hamburger-mo {
+    display: block;
+    background: transparent;
+  }
+
+   .btn-hamburger-mo img {
+      filter: brightness(0) invert(1);
+  }
+  .kssa-mobile-icons {
+    display: flex;
+    align-items: center;
+    gap: 0.6923rem;
+  }
+
+  .btn-search {
+    width: 1.6538rem;
+    height: 1.6538rem;
+    background: transparent;
+  }
+
+  .btn-search img {
+    height: 1.6538rem;
+  }
+
+  .btn-hamburger-mo img {
+    height: 1.3462rem;
+  }
+  /*  */
+  .kssa-menu-mobile {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 80%;
+    max-width: 15.3077rem;
+    height: 100vh;
+    background: #fff;
+    z-index: 999;
+
+    display: flex;
+    flex-direction: column;
+    padding: 3.4615rem 0.9231rem 0.9231rem;
+
+    transform: translateX(100%);
+    transition: transform 0.35s ease;
+  }
+
+  .kssa-menu-mobile.is-open {
+    transform: translateX(0);
+  }
+
+  .kssa-menu-mobile li {
+    border-bottom: 1px solid #eee;
+  }
+  .kssa-menu-mobile li:last-child {
+    border-bottom: unset;
+  }
+
+  .kssa-menu-mobile a {
+    display: block;
+    padding: 0.7rem 0;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #252525;
+  }
+
+  .mobile-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.45);
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.3s ease;
+    z-index: 998;
+  }
+
+  .mobile-overlay.is-open {
+    opacity: 1;
+    visibility: visible;
+  }
+  .menu-mobile-header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+
+    height: 4.6154rem;
+    padding: 0 0.7692rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    border-bottom: 1px solid #eee;
+    background: #fff;
+  }
+
+  .menu-mobile-logo {
+    height: 2rem;
+    width: auto;
+  }
+
+  .btn-menu-close {
+    border: 0;
+    background: transparent;
+    padding: 0.1538rem;
+    cursor: pointer;
+  }
+
+  .btn-menu-close img {
+    width: 1rem;
+    height: 1rem;
+    display: block;
+  }
+
+  .kssa-menu-mobile {
+    padding-top: 4.6923rem;
+  }
+}

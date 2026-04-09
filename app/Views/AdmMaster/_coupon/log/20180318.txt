@@ -1,0 +1,12 @@
+
+
+2018.03.18 19:51:49(180.224.124.28 /test2.php ) : 
+쿠폰생성 :  insert into tbl_coupon set 
+						  coupon_num	= '2C05E001ZE'
+						, coupon_type	= 'B'
+						, status		= 'D'
+						, last_idx	= '1'
+						, regdate	= now()
+						, enddate	= '2018-04-18'
+			
+

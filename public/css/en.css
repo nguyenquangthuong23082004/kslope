@@ -1,0 +1,31 @@
+#header .depth01>li>button {
+    font-size: 18px !important;
+}
+
+.introduction .en_intro p {
+    font-size: 18px !important;
+}
+.news_list li .txt h2 {
+    font-size: 16px;
+    line-height: 1.5;
+}
+.news_list li .txt p{
+    font-size: 15px;
+}
+.news_list li .txt span{
+    font-size: 15px;
+}
+#header .logo a, #header .logo img{
+    max-width: unset !important;
+}
+@media screen and (max-width: 850px) {
+    .main_visual .main_info_text p {
+        font-size: 1.5rem !important;
+    }
+    .facility_list .list .box .txt{
+        width: 100%;
+    }
+    .lang-switch{
+        font-size: 15px !important;
+    }
+}

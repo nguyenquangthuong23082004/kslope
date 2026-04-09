@@ -1,0 +1,152 @@
+
+
+2018.07.11 10:21:26(211.203.179.46 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C1E7001XZ'
+						, coupon_type	= ''
+						, types			= 'F'
+						, status		= 'D'
+						, last_idx		= '1'
+						, regdate		= now()
+						, enddate		= '2018-08-11'
+			
+
+
+
+2018.07.11 10:21:26(211.203.179.46 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C1E7002OA'
+						, coupon_type	= ''
+						, types			= 'F'
+						, status		= 'D'
+						, last_idx		= '2'
+						, regdate		= now()
+						, enddate		= '2018-08-11'
+			
+
+
+
+2018.07.11 10:21:26(211.203.179.46 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C1E7003JW'
+						, coupon_type	= ''
+						, types			= 'F'
+						, status		= 'D'
+						, last_idx		= '3'
+						, regdate		= now()
+						, enddate		= '2018-08-11'
+			
+
+
+
+2018.07.11 10:21:26(211.203.179.46 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C1E7004JX'
+						, coupon_type	= ''
+						, types			= 'F'
+						, status		= 'D'
+						, last_idx		= '4'
+						, regdate		= now()
+						, enddate		= '2018-08-11'
+			
+
+
+
+2018.07.11 10:21:26(211.203.179.46 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C1E7005KZ'
+						, coupon_type	= ''
+						, types			= 'F'
+						, status		= 'D'
+						, last_idx		= '5'
+						, regdate		= now()
+						, enddate		= '2018-08-11'
+			
+
+
+
+2018.07.11 10:21:37(211.203.179.46 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2C1E7001XZ'
+		
+
+
+
+2018.07.11 10:21:46(211.203.179.46 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2C1E7002OA'
+		
+
+
+
+2018.07.11 12:11:04(211.203.179.46 /login/login_check.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C1E7006UB'
+						, coupon_type	= ''
+						, types			= 'M'
+						, status		= 'D'
+						, last_idx		= '6'
+						, regdate		= now()
+						, enddate		= '2018-08-11'
+			
+
+
+
+2018.07.11 12:11:04(211.203.179.46 /login/login_check.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= '252050125602550'
+					 ,status	= 'N'
+					where coupon_num = '2C1E7006UB'
+		
+
+
+
+2018.07.11 14:26:32(211.203.179.46 /inicis/INIpay50/INIStdPaySample/INIStdPayReturn.php ) : 
+쿠폰사용(유저) :  update tbl_coupon set
+				 status	= 'E'
+				where coupon_num = '2C1E7001XZ'
+	
+
+
+
+2018.07.11 15:08:45(211.203.179.46 /item/cart_order_m_ajax_ok.php ) : 
+쿠폰사용(유저) :  update tbl_coupon set
+				 status	= 'E'
+				where coupon_num = '2C1E7002OA'
+	
+
+
+
+2018.07.11 15:10:53(211.203.179.46 /inicis/mobile/mx_rnext.php ) : 
+이미 사용되었거나 취소된 쿠폰입니다:
+
+
+
+2018.07.11 15:16:11(211.203.179.46 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2C1E7003JW'
+		
+
+
+
+2018.07.11 15:16:22(211.203.179.46 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2C1E7004JX'
+		
+
+
+
+2018.07.11 15:44:24(211.203.179.46 /inicis/mobile/mx_rnext.php ) : 
+쿠폰사용(유저) :  update tbl_coupon set
+				 status	= 'E'
+				where coupon_num = '2C1E7003JW'
+	
+

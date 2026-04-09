@@ -1,0 +1,10 @@
+
+
+2018.06.04 9:18:38(61.34.120.230 /AdmMaster/_order/list.php ) : 
+AdmMaster 접속 시도 - 아이피가 차단되었습니다 : 
+
+
+
+2018.06.04 9:18:51(61.34.120.230 /AdmMaster/_bbs/board_list.php ) : 
+AdmMaster 접속 시도 - 아이피가 차단되었습니다 : 
+

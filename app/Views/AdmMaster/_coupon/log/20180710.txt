@@ -1,0 +1,35 @@
+
+
+2018.07.10 14:51:37(211.203.179.46 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2C1E6001WX'
+					, coupon_type	= '10'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '1'
+					, regdate	= now()
+					, enddate	= '2018-08-10'
+		
+
+
+
+2018.07.10 14:51:37(211.203.179.46 /AdmMaster/_operator/coupon_write_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+					  coupon_num	= '2C1E6002OZ'
+					, coupon_type	= '10'
+					, types			= 'N'
+					, status		= 'D'
+					, last_idx	= '2'
+					, regdate	= now()
+					, enddate	= '2018-08-10'
+		
+
+
+
+2018.07.10 14:53:49(211.203.179.46 /AdmMaster/_operator/set_user.ajax.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a'
+					 ,status	= 'N'
+					where coupon_num = '2C1E6002OZ'
+		
+

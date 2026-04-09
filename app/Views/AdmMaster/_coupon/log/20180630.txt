@@ -1,0 +1,110 @@
+
+
+2018.06.30 11:17:14(211.203.179.46 /member/member_reg_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C196001HB'
+						, coupon_type	= ''
+						, types			= 'M'
+						, status		= 'D'
+						, last_idx		= '1'
+						, regdate		= now()
+						, enddate		= '2018-07-31'
+			
+
+
+
+2018.06.30 11:17:14(211.203.179.46 /member/member_reg_ok.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a3'
+					 ,status	= 'N'
+					where coupon_num = '2C196001HB'
+		
+
+
+
+2018.06.30 13:04:13(211.203.179.46 /member/member_reg_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C196002VY'
+						, coupon_type	= ''
+						, types			= 'M'
+						, status		= 'D'
+						, last_idx		= '2'
+						, regdate		= now()
+						, enddate		= '2018-07-31'
+			
+
+
+
+2018.06.30 13:04:13(211.203.179.46 /member/member_reg_ok.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a4'
+					 ,status	= 'N'
+					where coupon_num = '2C196002VY'
+		
+
+
+
+2018.06.30 15:09:34(211.203.179.46 /member/member_reg_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C196003QD'
+						, coupon_type	= ''
+						, types			= 'M'
+						, status		= 'D'
+						, last_idx		= '3'
+						, regdate		= now()
+						, enddate		= '2018-07-31'
+			
+
+
+
+2018.06.30 15:09:34(211.203.179.46 /member/member_reg_ok.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a11'
+					 ,status	= 'N'
+					where coupon_num = '2C196003QD'
+		
+
+
+
+2018.06.30 15:14:07(211.203.179.46 /member/member_reg_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C196004UZ'
+						, coupon_type	= ''
+						, types			= 'M'
+						, status		= 'D'
+						, last_idx		= '4'
+						, regdate		= now()
+						, enddate		= '2018-07-31'
+			
+
+
+
+2018.06.30 15:14:07(211.203.179.46 /member/member_reg_ok.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a13'
+					 ,status	= 'N'
+					where coupon_num = '2C196004UZ'
+		
+
+
+
+2018.06.30 16:18:14(211.203.179.46 /member/member_reg_ok.php ) : 
+쿠폰생성 :  insert into tbl_coupon set
+						  coupon_num	= '2C196005ZF'
+						, coupon_type	= ''
+						, types			= 'M'
+						, status		= 'D'
+						, last_idx		= '5'
+						, regdate		= now()
+						, enddate		= '2018-07-31'
+			
+
+
+
+2018.06.30 16:18:14(211.203.179.46 /member/member_reg_ok.php ) : 
+쿠폰발급(유저) :  update tbl_coupon set
+					  user_id	= 'bad16a15'
+					 ,status	= 'N'
+					where coupon_num = '2C196005ZF'
+		
+
